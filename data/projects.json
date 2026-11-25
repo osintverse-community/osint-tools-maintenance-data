@@ -1,0 +1,3302 @@
+{
+ "read_at": "2026-11-25T09:31:26.915Z",
+ "dormant_days": 548,
+ "projects": [
+  {
+   "slug": "sherlock",
+   "name": "Sherlock",
+   "category": "social-media",
+   "inputs": [
+    "username"
+   ],
+   "repo": "sherlock-project/sherlock",
+   "stars": 117283,
+   "language": "Python",
+   "license": "MIT",
+   "archived": false,
+   "last_commit_at": "2026-11-01T17:41:43Z",
+   "pushed_at": "2026-11-25T05:14:01Z",
+   "listing_url": "https://osinttools.io/tools/sherlock/",
+   "alternatives_url": "https://osinttools.io/tools/sherlock/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "world-monitor",
+   "name": "World Monitor",
+   "category": "threat-intelligence",
+   "inputs": [
+    "name"
+   ],
+   "repo": "koala73/worldmonitor",
+   "stars": 91160,
+   "language": "TypeScript",
+   "license": "AGPL-3.0",
+   "archived": false,
+   "last_commit_at": "2026-11-25T07:20:16Z",
+   "pushed_at": "2026-11-25T07:50:33Z",
+   "listing_url": "https://osinttools.io/tools/world-monitor/",
+   "alternatives_url": "https://osinttools.io/tools/world-monitor/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "maigret",
+   "name": "Maigret",
+   "category": "social-media",
+   "inputs": [
+    "username"
+   ],
+   "repo": "soxoj/maigret",
+   "stars": 41257,
+   "language": "Python",
+   "license": "MIT",
+   "archived": false,
+   "last_commit_at": "2026-11-24T15:51:30Z",
+   "pushed_at": "2026-11-25T06:11:44Z",
+   "listing_url": "https://osinttools.io/tools/maigret/",
+   "alternatives_url": "https://osinttools.io/tools/maigret/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "web-check",
+   "name": "Web-Check",
+   "category": "infrastructure",
+   "inputs": [
+    "url",
+    "domain"
+   ],
+   "repo": "lissy93/web-check",
+   "stars": 35611,
+   "language": "TypeScript",
+   "license": "MIT",
+   "archived": false,
+   "last_commit_at": "2026-11-23T11:50:10Z",
+   "pushed_at": "2026-11-23T11:50:14Z",
+   "listing_url": "https://osinttools.io/tools/web-check/",
+   "alternatives_url": "https://osinttools.io/tools/web-check/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "spiderfoot",
+   "name": "SpiderFoot",
+   "category": "data-capturing",
+   "inputs": [
+    "domain",
+    "ip",
+    "email",
+    "phone",
+    "username",
+    "name",
+    "crypto"
+   ],
+   "repo": "smicallef/spiderfoot",
+   "stars": 24956,
+   "language": "Python",
+   "license": "MIT",
+   "archived": false,
+   "last_commit_at": "2023-11-05T18:36:23Z",
+   "pushed_at": "2026-04-13T19:43:06Z",
+   "listing_url": "https://osinttools.io/tools/spiderfoot/",
+   "alternatives_url": "https://osinttools.io/tools/spiderfoot/alternatives/",
+   "state": "dormant"
+  },
+  {
+   "slug": "social-analyzer",
+   "name": "Social Analyzer",
+   "category": "social-media",
+   "inputs": [
+    "username"
+   ],
+   "repo": "qeeqbox/social-analyzer",
+   "stars": 24612,
+   "language": "JavaScript",
+   "license": "AGPL-3.0",
+   "archived": false,
+   "last_commit_at": "2026-11-08T03:26:42Z",
+   "pushed_at": "2026-11-08T03:26:43Z",
+   "listing_url": "https://osinttools.io/tools/social-analyzer/",
+   "alternatives_url": "https://osinttools.io/tools/social-analyzer/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "singlefile",
+   "name": "SingleFile",
+   "category": "data-capturing",
+   "inputs": [
+    "url"
+   ],
+   "repo": "gildas-lormeau/SingleFile",
+   "stars": 23005,
+   "language": "JavaScript",
+   "license": "AGPL-3.0",
+   "archived": false,
+   "last_commit_at": "2026-11-22T00:43:36Z",
+   "pushed_at": "2026-11-22T00:46:30Z",
+   "listing_url": "https://osinttools.io/tools/singlefile/",
+   "alternatives_url": "https://osinttools.io/tools/singlefile/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "ghosttrack",
+   "name": "GhostTrack",
+   "category": "people",
+   "inputs": [
+    "ip",
+    "phone",
+    "username"
+   ],
+   "repo": "HunxByts/GhostTrack",
+   "stars": 20880,
+   "language": "Python",
+   "license": null,
+   "archived": false,
+   "last_commit_at": "2024-01-11T15:36:46Z",
+   "pushed_at": "2024-01-11T15:36:46Z",
+   "listing_url": "https://osinttools.io/tools/ghosttrack/",
+   "alternatives_url": "https://osinttools.io/tools/ghosttrack/alternatives/",
+   "state": "dormant"
+  },
+  {
+   "slug": "ghunt",
+   "name": "GHunt",
+   "category": "people",
+   "inputs": [
+    "email",
+    "url"
+   ],
+   "repo": "mxrch/GHunt",
+   "stars": 19899,
+   "language": "Python",
+   "license": null,
+   "archived": false,
+   "last_commit_at": "2026-04-10T02:29:16Z",
+   "pushed_at": "2026-04-10T02:29:16Z",
+   "listing_url": "https://osinttools.io/tools/ghunt/",
+   "alternatives_url": "https://osinttools.io/tools/ghunt/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "phoneinfoga",
+   "name": "PhoneInfoga",
+   "category": "people",
+   "inputs": [
+    "phone"
+   ],
+   "repo": "sundowndev/phoneinfoga",
+   "stars": 18674,
+   "language": "Go",
+   "license": "GPL-3.0",
+   "archived": false,
+   "last_commit_at": "2026-08-25T07:42:08Z",
+   "pushed_at": "2026-08-25T07:42:10Z",
+   "listing_url": "https://osinttools.io/tools/phoneinfoga/",
+   "alternatives_url": "https://osinttools.io/tools/phoneinfoga/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "theharvester",
+   "name": "theHarvester",
+   "category": "data-capturing",
+   "inputs": [
+    "domain"
+   ],
+   "repo": "laramies/theHarvester",
+   "stars": 18404,
+   "language": "Python",
+   "license": "GPL-2.0",
+   "archived": false,
+   "last_commit_at": "2026-11-21T22:14:17Z",
+   "pushed_at": "2026-11-24T22:15:00Z",
+   "listing_url": "https://osinttools.io/tools/theharvester/",
+   "alternatives_url": "https://osinttools.io/tools/theharvester/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "twint",
+   "name": "Twint",
+   "category": "social-media",
+   "inputs": [
+    "username"
+   ],
+   "repo": "twintproject/twint",
+   "stars": 16413,
+   "language": "Python",
+   "license": "MIT",
+   "archived": true,
+   "last_commit_at": "2021-03-02T21:25:04Z",
+   "pushed_at": "2023-02-23T13:58:09Z",
+   "listing_url": "https://osinttools.io/tools/twint/",
+   "alternatives_url": "https://osinttools.io/tools/twint/alternatives/",
+   "state": "archived"
+  },
+  {
+   "slug": "osintgram",
+   "name": "Osintgram",
+   "category": "social-media",
+   "inputs": [
+    "username"
+   ],
+   "repo": "Datalux/Osintgram",
+   "stars": 15885,
+   "language": "Python",
+   "license": "GPL-3.0",
+   "archived": false,
+   "last_commit_at": "2026-10-26T08:25:05Z",
+   "pushed_at": "2026-10-30T21:24:23Z",
+   "listing_url": "https://osinttools.io/tools/osintgram/",
+   "alternatives_url": "https://osinttools.io/tools/osintgram/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "holehe",
+   "name": "Holehe",
+   "category": "people",
+   "inputs": [
+    "email"
+   ],
+   "repo": "megadose/holehe",
+   "stars": 15755,
+   "language": "Python",
+   "license": "GPL-3.0",
+   "archived": false,
+   "last_commit_at": "2024-09-10T20:24:32Z",
+   "pushed_at": "2024-09-10T20:24:32Z",
+   "listing_url": "https://osinttools.io/tools/holehe/",
+   "alternatives_url": "https://osinttools.io/tools/holehe/alternatives/",
+   "state": "dormant"
+  },
+  {
+   "slug": "amass",
+   "name": "OWASP Amass",
+   "category": "infrastructure",
+   "inputs": [
+    "domain"
+   ],
+   "repo": "owasp-amass/amass",
+   "stars": 15558,
+   "language": "Go",
+   "license": null,
+   "archived": false,
+   "last_commit_at": "2026-10-25T16:11:57Z",
+   "pushed_at": "2026-11-24T23:24:06Z",
+   "listing_url": "https://osinttools.io/tools/amass/",
+   "alternatives_url": "https://osinttools.io/tools/amass/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "subfinder",
+   "name": "Subfinder",
+   "category": "infrastructure",
+   "inputs": [
+    "domain"
+   ],
+   "repo": "projectdiscovery/subfinder",
+   "stars": 14867,
+   "language": "Go",
+   "license": "MIT",
+   "archived": false,
+   "last_commit_at": "2026-11-23T16:27:51Z",
+   "pushed_at": "2026-11-24T18:59:21Z",
+   "listing_url": "https://osinttools.io/tools/subfinder/",
+   "alternatives_url": "https://osinttools.io/tools/subfinder/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "instaloader",
+   "name": "Instaloader",
+   "category": "social-media",
+   "inputs": [
+    "username"
+   ],
+   "repo": "instaloader/instaloader",
+   "stars": 14003,
+   "language": "Python",
+   "license": "MIT",
+   "archived": false,
+   "last_commit_at": "2026-11-01T18:55:04Z",
+   "pushed_at": "2026-11-01T19:20:46Z",
+   "listing_url": "https://osinttools.io/tools/instaloader/",
+   "alternatives_url": "https://osinttools.io/tools/instaloader/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "photon",
+   "name": "Photon",
+   "category": "data-capturing",
+   "inputs": [
+    "url",
+    "domain"
+   ],
+   "repo": "s0md3v/Photon",
+   "stars": 13412,
+   "language": "Python",
+   "license": "GPL-3.0",
+   "archived": false,
+   "last_commit_at": "2026-10-17T22:43:19Z",
+   "pushed_at": "2026-10-17T22:43:20Z",
+   "listing_url": "https://osinttools.io/tools/photon/",
+   "alternatives_url": "https://osinttools.io/tools/photon/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "osint-framework",
+   "name": "OSINT Framework",
+   "category": "data-capturing",
+   "inputs": [
+    "username",
+    "email",
+    "domain",
+    "ip",
+    "phone",
+    "name",
+    "image",
+    "crypto"
+   ],
+   "repo": "lockfale/OSINT-Framework",
+   "stars": 12512,
+   "language": "JavaScript",
+   "license": "MIT",
+   "archived": false,
+   "last_commit_at": "2026-10-23T01:51:43Z",
+   "pushed_at": "2026-10-31T06:32:06Z",
+   "listing_url": "https://osinttools.io/tools/osint-framework/",
+   "alternatives_url": "https://osinttools.io/tools/osint-framework/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "bbot",
+   "name": "BBOT",
+   "category": "data-capturing",
+   "inputs": [
+    "domain",
+    "ip",
+    "url"
+   ],
+   "repo": "blacklanternsecurity/bbot",
+   "stars": 11196,
+   "language": "Python",
+   "license": "AGPL-3.0",
+   "archived": false,
+   "last_commit_at": "2026-11-19T00:28:15Z",
+   "pushed_at": "2026-11-25T00:21:41Z",
+   "listing_url": "https://osinttools.io/tools/bbot/",
+   "alternatives_url": "https://osinttools.io/tools/bbot/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "httpx",
+   "name": "httpx",
+   "category": "infrastructure",
+   "inputs": [
+    "domain",
+    "ip",
+    "url"
+   ],
+   "repo": "projectdiscovery/httpx",
+   "stars": 10658,
+   "language": "Go",
+   "license": "MIT",
+   "archived": false,
+   "last_commit_at": "2026-11-21T17:49:17Z",
+   "pushed_at": "2026-11-23T16:22:07Z",
+   "listing_url": "https://osinttools.io/tools/httpx/",
+   "alternatives_url": "https://osinttools.io/tools/httpx/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "opencti",
+   "name": "OpenCTI",
+   "category": "threat-intelligence",
+   "inputs": [
+    "ip",
+    "domain",
+    "url",
+    "file",
+    "email"
+   ],
+   "repo": "OpenCTI-Platform/opencti",
+   "stars": 10436,
+   "language": "TypeScript",
+   "license": null,
+   "archived": false,
+   "last_commit_at": "2026-11-25T08:48:23Z",
+   "pushed_at": "2026-11-25T09:19:54Z",
+   "listing_url": "https://osinttools.io/tools/opencti/",
+   "alternatives_url": "https://osinttools.io/tools/opencti/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "blackbird",
+   "name": "Blackbird",
+   "category": "social-media",
+   "inputs": [
+    "username",
+    "email"
+   ],
+   "repo": "antoniaci/blackbird",
+   "stars": 10269,
+   "language": "Python",
+   "license": null,
+   "archived": false,
+   "last_commit_at": "2026-11-03T19:14:38Z",
+   "pushed_at": "2026-11-03T19:14:38Z",
+   "listing_url": "https://osinttools.io/tools/blackbird/",
+   "alternatives_url": "https://osinttools.io/tools/blackbird/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "flowsint",
+   "name": "Flowsint",
+   "category": "data-capturing",
+   "inputs": [
+    "domain",
+    "ip",
+    "email",
+    "phone",
+    "username",
+    "crypto",
+    "url",
+    "name"
+   ],
+   "repo": "reconurge/flowsint",
+   "stars": 10251,
+   "language": "TypeScript",
+   "license": "Apache-2.0",
+   "archived": false,
+   "last_commit_at": "2026-10-18T19:56:09Z",
+   "pushed_at": "2026-10-18T19:56:10Z",
+   "listing_url": "https://osinttools.io/tools/flowsint/",
+   "alternatives_url": "https://osinttools.io/tools/flowsint/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "oneforall",
+   "name": "OneForAll",
+   "category": "infrastructure",
+   "inputs": [
+    "domain"
+   ],
+   "repo": "shmilylty/OneForAll",
+   "stars": 10164,
+   "language": "Python",
+   "license": "GPL-3.0",
+   "archived": false,
+   "last_commit_at": "2026-11-02T02:50:03Z",
+   "pushed_at": "2026-11-02T02:50:04Z",
+   "listing_url": "https://osinttools.io/tools/oneforall/",
+   "alternatives_url": "https://osinttools.io/tools/oneforall/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "rengine",
+   "name": "reNgine",
+   "category": "infrastructure",
+   "inputs": [
+    "domain"
+   ],
+   "repo": "yogeshojha/rengine",
+   "stars": 8961,
+   "language": "HTML",
+   "license": "GPL-3.0",
+   "archived": false,
+   "last_commit_at": "2025-11-16T15:39:26Z",
+   "pushed_at": "2026-11-20T23:48:56Z",
+   "listing_url": "https://osinttools.io/tools/rengine/",
+   "alternatives_url": "https://osinttools.io/tools/rengine/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "reconftw",
+   "name": "reconFTW",
+   "category": "infrastructure",
+   "inputs": [
+    "domain"
+   ],
+   "repo": "six2dez/reconftw",
+   "stars": 8413,
+   "language": "Shell",
+   "license": "MIT",
+   "archived": false,
+   "last_commit_at": "2026-10-29T17:13:47Z",
+   "pushed_at": "2026-11-02T11:45:32Z",
+   "listing_url": "https://osinttools.io/tools/reconftw/",
+   "alternatives_url": "https://osinttools.io/tools/reconftw/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "robin",
+   "name": "Robin",
+   "category": "dark-web",
+   "inputs": [
+    "name"
+   ],
+   "repo": "apurvsinghgautam/robin",
+   "stars": 8096,
+   "language": "Python",
+   "license": "MIT",
+   "archived": false,
+   "last_commit_at": "2026-10-03T00:09:43Z",
+   "pushed_at": "2026-10-03T00:20:31Z",
+   "listing_url": "https://osinttools.io/tools/robin/",
+   "alternatives_url": "https://osinttools.io/tools/robin/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "misp",
+   "name": "MISP",
+   "category": "threat-intelligence",
+   "inputs": [
+    "ip",
+    "domain",
+    "url",
+    "file",
+    "email"
+   ],
+   "repo": "MISP/MISP",
+   "stars": 6704,
+   "language": "PHP",
+   "license": "AGPL-3.0",
+   "archived": false,
+   "last_commit_at": "2026-11-24T10:33:58Z",
+   "pushed_at": "2026-11-24T10:35:45Z",
+   "listing_url": "https://osinttools.io/tools/misp/",
+   "alternatives_url": "https://osinttools.io/tools/misp/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "osmedeus",
+   "name": "Osmedeus",
+   "category": "infrastructure",
+   "inputs": [
+    "domain",
+    "ip"
+   ],
+   "repo": "j3ssie/osmedeus",
+   "stars": 6671,
+   "language": "Go",
+   "license": "MIT",
+   "archived": false,
+   "last_commit_at": "2026-11-23T14:52:00Z",
+   "pushed_at": "2026-11-23T14:52:03Z",
+   "listing_url": "https://osinttools.io/tools/osmedeus/",
+   "alternatives_url": "https://osinttools.io/tools/osmedeus/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "gitrob",
+   "name": "Gitrob",
+   "category": "infrastructure",
+   "inputs": [
+    "username"
+   ],
+   "repo": "michenriksen/gitrob",
+   "stars": 6197,
+   "language": "Go",
+   "license": "MIT",
+   "archived": true,
+   "last_commit_at": "2018-07-05T11:50:09Z",
+   "pushed_at": "2022-09-20T18:09:09Z",
+   "listing_url": "https://osinttools.io/tools/gitrob/",
+   "alternatives_url": "https://osinttools.io/tools/gitrob/alternatives/",
+   "state": "archived"
+  },
+  {
+   "slug": "mosint",
+   "name": "Mosint",
+   "category": "people",
+   "inputs": [
+    "email"
+   ],
+   "repo": "alpkeskin/mosint",
+   "stars": 6090,
+   "language": "Go",
+   "license": "MIT",
+   "archived": false,
+   "last_commit_at": "2023-09-19T22:22:10Z",
+   "pushed_at": "2024-02-02T13:10:43Z",
+   "listing_url": "https://osinttools.io/tools/mosint/",
+   "alternatives_url": "https://osinttools.io/tools/mosint/alternatives/",
+   "state": "dormant"
+  },
+  {
+   "slug": "recon-ng",
+   "name": "Recon-ng",
+   "category": "data-capturing",
+   "inputs": [
+    "domain",
+    "ip",
+    "email",
+    "username",
+    "name"
+   ],
+   "repo": "lanmaster53/recon-ng",
+   "stars": 6069,
+   "language": "Python",
+   "license": "GPL-3.0",
+   "archived": false,
+   "last_commit_at": "2026-10-05T14:10:07Z",
+   "pushed_at": "2026-10-05T14:10:08Z",
+   "listing_url": "https://osinttools.io/tools/recon-ng/",
+   "alternatives_url": "https://osinttools.io/tools/recon-ng/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "aquatone",
+   "name": "Aquatone",
+   "category": "infrastructure",
+   "inputs": [
+    "domain",
+    "ip",
+    "url"
+   ],
+   "repo": "michenriksen/aquatone",
+   "stars": 5959,
+   "language": "Go",
+   "license": "MIT",
+   "archived": true,
+   "last_commit_at": "2019-05-19T09:07:52Z",
+   "pushed_at": "2022-05-22T19:49:32Z",
+   "listing_url": "https://osinttools.io/tools/aquatone/",
+   "alternatives_url": "https://osinttools.io/tools/aquatone/alternatives/",
+   "state": "archived"
+  },
+  {
+   "slug": "dnstwist",
+   "name": "dnstwist",
+   "category": "infrastructure",
+   "inputs": [
+    "domain"
+   ],
+   "repo": "elceef/dnstwist",
+   "stars": 5789,
+   "language": "Python",
+   "license": "Apache-2.0",
+   "archived": false,
+   "last_commit_at": "2025-04-15T18:41:44Z",
+   "pushed_at": "2025-04-15T18:41:47Z",
+   "listing_url": "https://osinttools.io/tools/dnstwist/",
+   "alternatives_url": "https://osinttools.io/tools/dnstwist/alternatives/",
+   "state": "dormant"
+  },
+  {
+   "slug": "user-scanner",
+   "name": "User Scanner",
+   "category": "social-media",
+   "inputs": [
+    "email",
+    "username"
+   ],
+   "repo": "kaifcodec/user-scanner",
+   "stars": 5754,
+   "language": "Python",
+   "license": "MIT",
+   "archived": false,
+   "last_commit_at": "2026-11-25T06:37:11Z",
+   "pushed_at": "2026-11-25T06:37:12Z",
+   "listing_url": "https://osinttools.io/tools/user-scanner/",
+   "alternatives_url": "https://osinttools.io/tools/user-scanner/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "h8mail",
+   "name": "h8mail",
+   "category": "dark-web",
+   "inputs": [
+    "email",
+    "username",
+    "domain"
+   ],
+   "repo": "khast3x/h8mail",
+   "stars": 5390,
+   "language": "Python",
+   "license": null,
+   "archived": false,
+   "last_commit_at": "2022-06-25T16:46:32Z",
+   "pushed_at": "2023-08-15T10:50:34Z",
+   "listing_url": "https://osinttools.io/tools/h8mail/",
+   "alternatives_url": "https://osinttools.io/tools/h8mail/alternatives/",
+   "state": "dormant"
+  },
+  {
+   "slug": "exiftool",
+   "name": "ExifTool",
+   "category": "documents",
+   "inputs": [
+    "file",
+    "image"
+   ],
+   "repo": "exiftool/exiftool",
+   "stars": 5306,
+   "language": "Perl",
+   "license": "GPL-3.0",
+   "archived": false,
+   "last_commit_at": "2026-11-16T15:32:59Z",
+   "pushed_at": "2026-11-16T15:33:33Z",
+   "listing_url": "https://osinttools.io/tools/exiftool/",
+   "alternatives_url": "https://osinttools.io/tools/exiftool/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "torbot",
+   "name": "TorBot",
+   "category": "dark-web",
+   "inputs": [
+    "url"
+   ],
+   "repo": "DedSecInside/TorBot",
+   "stars": 5232,
+   "language": "Python",
+   "license": null,
+   "archived": false,
+   "last_commit_at": "2026-11-12T14:42:52Z",
+   "pushed_at": "2026-11-12T14:43:35Z",
+   "listing_url": "https://osinttools.io/tools/torbot/",
+   "alternatives_url": "https://osinttools.io/tools/torbot/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "hakrawler",
+   "name": "Hakrawler",
+   "category": "infrastructure",
+   "inputs": [
+    "url"
+   ],
+   "repo": "hakluke/hakrawler",
+   "stars": 5174,
+   "language": "Go",
+   "license": "GPL-3.0",
+   "archived": false,
+   "last_commit_at": "2026-08-05T04:05:37Z",
+   "pushed_at": "2026-08-05T04:05:39Z",
+   "listing_url": "https://osinttools.io/tools/hakrawler/",
+   "alternatives_url": "https://osinttools.io/tools/hakrawler/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "intelowl",
+   "name": "IntelOwl",
+   "category": "threat-intelligence",
+   "inputs": [
+    "ip",
+    "domain",
+    "url",
+    "file"
+   ],
+   "repo": "intelowlproject/IntelOwl",
+   "stars": 4833,
+   "language": "Python",
+   "license": "AGPL-3.0",
+   "archived": false,
+   "last_commit_at": "2026-09-02T04:33:26Z",
+   "pushed_at": "2026-11-24T11:42:11Z",
+   "listing_url": "https://osinttools.io/tools/intelowl/",
+   "alternatives_url": "https://osinttools.io/tools/intelowl/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "toutatis",
+   "name": "Toutatis",
+   "category": "social-media",
+   "inputs": [
+    "username"
+   ],
+   "repo": "megadose/toutatis",
+   "stars": 4477,
+   "language": "Python",
+   "license": "GPL-3.0",
+   "archived": false,
+   "last_commit_at": "2024-12-05T21:46:49Z",
+   "pushed_at": "2024-12-05T21:46:49Z",
+   "listing_url": "https://osinttools.io/tools/toutatis/",
+   "alternatives_url": "https://osinttools.io/tools/toutatis/alternatives/",
+   "state": "dormant"
+  },
+  {
+   "slug": "mr-holmes",
+   "name": "Mr.Holmes",
+   "category": "people",
+   "inputs": [
+    "username",
+    "phone",
+    "domain",
+    "email"
+   ],
+   "repo": "Lucksi/Mr.Holmes",
+   "stars": 4446,
+   "language": "Python",
+   "license": "GPL-3.0",
+   "archived": false,
+   "last_commit_at": "2026-02-21T11:15:55Z",
+   "pushed_at": "2026-02-21T11:15:55Z",
+   "listing_url": "https://osinttools.io/tools/mr-holmes/",
+   "alternatives_url": "https://osinttools.io/tools/mr-holmes/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "argus",
+   "name": "Argus",
+   "category": "infrastructure",
+   "inputs": [
+    "domain",
+    "ip",
+    "url"
+   ],
+   "repo": "divinelabio/Argus",
+   "stars": 4365,
+   "language": "Python",
+   "license": "MIT",
+   "archived": false,
+   "last_commit_at": "2025-12-10T10:30:05Z",
+   "pushed_at": "2025-12-10T10:30:05Z",
+   "listing_url": "https://osinttools.io/tools/argus/",
+   "alternatives_url": "https://osinttools.io/tools/argus/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "ivre",
+   "name": "IVRE",
+   "category": "infrastructure",
+   "inputs": [
+    "ip",
+    "domain"
+   ],
+   "repo": "ivre/ivre",
+   "stars": 4229,
+   "language": "Python",
+   "license": "GPL-3.0",
+   "archived": false,
+   "last_commit_at": "2026-11-20T01:18:43Z",
+   "pushed_at": "2026-11-20T01:18:43Z",
+   "listing_url": "https://osinttools.io/tools/ivre/",
+   "alternatives_url": "https://osinttools.io/tools/ivre/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "raccoon",
+   "name": "Raccoon",
+   "category": "infrastructure",
+   "inputs": [
+    "domain",
+    "ip"
+   ],
+   "repo": "evyatarmeged/Raccoon",
+   "stars": 4082,
+   "language": "Python",
+   "license": "MIT",
+   "archived": false,
+   "last_commit_at": "2025-06-10T09:17:11Z",
+   "pushed_at": "2026-04-21T21:23:15Z",
+   "listing_url": "https://osinttools.io/tools/raccoon/",
+   "alternatives_url": "https://osinttools.io/tools/raccoon/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "snoop",
+   "name": "Snoop",
+   "category": "social-media",
+   "inputs": [
+    "username"
+   ],
+   "repo": "snooppr/snoop",
+   "stars": 4077,
+   "language": "Python",
+   "license": null,
+   "archived": false,
+   "last_commit_at": "2026-11-22T10:30:34Z",
+   "pushed_at": "2026-11-22T10:30:42Z",
+   "listing_url": "https://osinttools.io/tools/snoop/",
+   "alternatives_url": "https://osinttools.io/tools/snoop/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "shhgit",
+   "name": "shhgit",
+   "category": "threat-intelligence",
+   "inputs": [
+    "file"
+   ],
+   "repo": "eth0izzle/shhgit",
+   "stars": 3994,
+   "language": "JavaScript",
+   "license": "MIT",
+   "archived": false,
+   "last_commit_at": "2025-02-28T15:41:48Z",
+   "pushed_at": "2025-02-28T15:41:48Z",
+   "listing_url": "https://osinttools.io/tools/shhgit/",
+   "alternatives_url": "https://osinttools.io/tools/shhgit/alternatives/",
+   "state": "dormant"
+  },
+  {
+   "slug": "gosearch",
+   "name": "GoSearch",
+   "category": "social-media",
+   "inputs": [
+    "username"
+   ],
+   "repo": "ibnaleem/gosearch",
+   "stars": 3925,
+   "language": "Go",
+   "license": "GPL-3.0",
+   "archived": false,
+   "last_commit_at": "2026-11-16T10:28:58Z",
+   "pushed_at": "2026-11-16T10:29:01Z",
+   "listing_url": "https://osinttools.io/tools/gosearch/",
+   "alternatives_url": "https://osinttools.io/tools/gosearch/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "findomain",
+   "name": "Findomain",
+   "category": "infrastructure",
+   "inputs": [
+    "domain"
+   ],
+   "repo": "Findomain/Findomain",
+   "stars": 3839,
+   "language": "Rust",
+   "license": "GPL-3.0",
+   "archived": false,
+   "last_commit_at": "2026-11-13T20:03:02Z",
+   "pushed_at": "2026-11-23T23:13:12Z",
+   "listing_url": "https://osinttools.io/tools/findomain/",
+   "alternatives_url": "https://osinttools.io/tools/findomain/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "foca",
+   "name": "FOCA",
+   "category": "documents",
+   "inputs": [
+    "domain"
+   ],
+   "repo": "ElevenPaths/FOCA",
+   "stars": 3674,
+   "language": "C#",
+   "license": "GPL-3.0",
+   "archived": false,
+   "last_commit_at": "2021-08-27T11:03:16Z",
+   "pushed_at": "2022-12-08T09:31:55Z",
+   "listing_url": "https://osinttools.io/tools/foca/",
+   "alternatives_url": "https://osinttools.io/tools/foca/alternatives/",
+   "state": "dormant"
+  },
+  {
+   "slug": "pagodo",
+   "name": "pagodo",
+   "category": "data-capturing",
+   "inputs": [
+    "domain"
+   ],
+   "repo": "opsdisk/pagodo",
+   "stars": 3416,
+   "language": "Python",
+   "license": "GPL-3.0",
+   "archived": true,
+   "last_commit_at": "2026-11-01T19:08:44Z",
+   "pushed_at": "2026-11-01T19:12:42Z",
+   "listing_url": "https://osinttools.io/tools/pagodo/",
+   "alternatives_url": "https://osinttools.io/tools/pagodo/alternatives/",
+   "state": "archived"
+  },
+  {
+   "slug": "tookie-osint",
+   "name": "Tookie-OSINT",
+   "category": "social-media",
+   "inputs": [
+    "username"
+   ],
+   "repo": "Alfredredbird/tookie-osint",
+   "stars": 3221,
+   "language": "Python",
+   "license": "MIT",
+   "archived": false,
+   "last_commit_at": "2026-11-10T08:28:56Z",
+   "pushed_at": "2026-11-10T08:28:58Z",
+   "listing_url": "https://osinttools.io/tools/tookie-osint/",
+   "alternatives_url": "https://osinttools.io/tools/tookie-osint/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "paramspider",
+   "name": "ParamSpider",
+   "category": "infrastructure",
+   "inputs": [
+    "domain"
+   ],
+   "repo": "devanshbatham/ParamSpider",
+   "stars": 3214,
+   "language": "Python",
+   "license": "MIT",
+   "archived": false,
+   "last_commit_at": "2026-03-07T16:16:48Z",
+   "pushed_at": "2026-03-07T16:16:48Z",
+   "listing_url": "https://osinttools.io/tools/paramspider/",
+   "alternatives_url": "https://osinttools.io/tools/paramspider/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "yesitsme",
+   "name": "yesitsme",
+   "category": "social-media",
+   "inputs": [
+    "name",
+    "email",
+    "phone"
+   ],
+   "repo": "0x0be/yesitsme",
+   "stars": 3191,
+   "language": "Python",
+   "license": null,
+   "archived": false,
+   "last_commit_at": "2021-12-23T21:39:37Z",
+   "pushed_at": "2024-08-17T18:35:46Z",
+   "listing_url": "https://osinttools.io/tools/yesitsme/",
+   "alternatives_url": "https://osinttools.io/tools/yesitsme/alternatives/",
+   "state": "dormant"
+  },
+  {
+   "slug": "uncover",
+   "name": "uncover",
+   "category": "infrastructure",
+   "inputs": [
+    "ip",
+    "domain"
+   ],
+   "repo": "projectdiscovery/uncover",
+   "stars": 3122,
+   "language": "Go",
+   "license": "MIT",
+   "archived": false,
+   "last_commit_at": "2026-11-16T14:53:52Z",
+   "pushed_at": "2026-11-21T17:53:41Z",
+   "listing_url": "https://osinttools.io/tools/uncover/",
+   "alternatives_url": "https://osinttools.io/tools/uncover/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "whatsmyname",
+   "name": "WhatsMyName",
+   "category": "social-media",
+   "inputs": [
+    "username"
+   ],
+   "repo": "WebBreacher/WhatsMyName",
+   "stars": 3057,
+   "language": null,
+   "license": null,
+   "archived": true,
+   "last_commit_at": "2026-11-09T15:06:40Z",
+   "pushed_at": "2026-11-09T15:08:49Z",
+   "listing_url": "https://osinttools.io/tools/whatsmyname/",
+   "alternatives_url": "https://osinttools.io/tools/whatsmyname/alternatives/",
+   "state": "archived"
+  },
+  {
+   "slug": "x-osint",
+   "name": "X-osint",
+   "category": "data-capturing",
+   "inputs": [
+    "ip",
+    "email",
+    "phone",
+    "domain",
+    "image",
+    "file"
+   ],
+   "repo": "TermuxHackz/X-osint",
+   "stars": 2923,
+   "language": "Python",
+   "license": "GPL-3.0",
+   "archived": false,
+   "last_commit_at": "2026-10-09T08:22:01Z",
+   "pushed_at": "2026-10-09T08:22:01Z",
+   "listing_url": "https://osinttools.io/tools/x-osint/",
+   "alternatives_url": "https://osinttools.io/tools/x-osint/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "reconspider",
+   "name": "ReconSpider",
+   "category": "data-capturing",
+   "inputs": [
+    "ip",
+    "domain",
+    "phone",
+    "username",
+    "file",
+    "image"
+   ],
+   "repo": "bhavsec/reconspider",
+   "stars": 2871,
+   "language": "Python",
+   "license": "GPL-3.0",
+   "archived": false,
+   "last_commit_at": "2021-08-19T18:24:20Z",
+   "pushed_at": "2023-09-26T10:12:16Z",
+   "listing_url": "https://osinttools.io/tools/reconspider/",
+   "alternatives_url": "https://osinttools.io/tools/reconspider/alternatives/",
+   "state": "dormant"
+  },
+  {
+   "slug": "pwnedornot",
+   "name": "pwnedOrNot",
+   "category": "dark-web",
+   "inputs": [
+    "email",
+    "domain"
+   ],
+   "repo": "thewhiteh4t/pwnedOrNot",
+   "stars": 2684,
+   "language": "Python",
+   "license": "MIT",
+   "archived": false,
+   "last_commit_at": "2026-03-28T06:34:02Z",
+   "pushed_at": "2026-03-28T06:34:07Z",
+   "listing_url": "https://osinttools.io/tools/pwnedornot/",
+   "alternatives_url": "https://osinttools.io/tools/pwnedornot/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "scopesentry",
+   "name": "ScopeSentry",
+   "category": "infrastructure",
+   "inputs": [
+    "domain",
+    "ip"
+   ],
+   "repo": "Autumn-27/ScopeSentry",
+   "stars": 2682,
+   "language": "Go",
+   "license": null,
+   "archived": false,
+   "last_commit_at": "2026-10-11T03:21:00Z",
+   "pushed_at": "2026-10-11T03:21:00Z",
+   "listing_url": "https://osinttools.io/tools/scopesentry/",
+   "alternatives_url": "https://osinttools.io/tools/scopesentry/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "nexfil",
+   "name": "NExfil",
+   "category": "social-media",
+   "inputs": [
+    "username"
+   ],
+   "repo": "thewhiteh4t/nexfil",
+   "stars": 2652,
+   "language": "Python",
+   "license": "MIT",
+   "archived": false,
+   "last_commit_at": "2023-09-30T04:43:11Z",
+   "pushed_at": "2023-09-30T04:43:12Z",
+   "listing_url": "https://osinttools.io/tools/nexfil/",
+   "alternatives_url": "https://osinttools.io/tools/nexfil/alternatives/",
+   "state": "dormant"
+  },
+  {
+   "slug": "sn0int",
+   "name": "sn0int",
+   "category": "data-capturing",
+   "inputs": [
+    "domain",
+    "ip",
+    "email",
+    "username",
+    "phone"
+   ],
+   "repo": "kpcyrd/sn0int",
+   "stars": 2571,
+   "language": "Rust",
+   "license": "GPL-3.0",
+   "archived": false,
+   "last_commit_at": "2026-09-20T14:03:49Z",
+   "pushed_at": "2026-09-20T14:03:50Z",
+   "listing_url": "https://osinttools.io/tools/sn0int/",
+   "alternatives_url": "https://osinttools.io/tools/sn0int/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "aleph",
+   "name": "Aleph",
+   "category": "documents",
+   "inputs": [
+    "file",
+    "name"
+   ],
+   "repo": "alephdata/aleph",
+   "stars": 2515,
+   "language": "JavaScript",
+   "license": "MIT",
+   "archived": false,
+   "last_commit_at": "2025-12-19T08:52:31Z",
+   "pushed_at": "2026-02-20T22:43:51Z",
+   "listing_url": "https://osinttools.io/tools/aleph/",
+   "alternatives_url": "https://osinttools.io/tools/aleph/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "xray",
+   "name": "XRay",
+   "category": "infrastructure",
+   "inputs": [
+    "domain"
+   ],
+   "repo": "evilsocket/xray",
+   "stars": 2344,
+   "language": "Go",
+   "license": "GPL-3.0",
+   "archived": true,
+   "last_commit_at": "2024-07-10T09:43:56Z",
+   "pushed_at": "2024-07-10T09:43:56Z",
+   "listing_url": "https://osinttools.io/tools/xray/",
+   "alternatives_url": "https://osinttools.io/tools/xray/alternatives/",
+   "state": "archived"
+  },
+  {
+   "slug": "yark",
+   "name": "Yark",
+   "category": "social-media",
+   "inputs": [
+    "url"
+   ],
+   "repo": "Owez/yark",
+   "stars": 2194,
+   "language": "Python",
+   "license": "MIT",
+   "archived": false,
+   "last_commit_at": "2025-12-17T10:50:41Z",
+   "pushed_at": "2026-07-30T05:45:45Z",
+   "listing_url": "https://osinttools.io/tools/yark/",
+   "alternatives_url": "https://osinttools.io/tools/yark/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "searchphone",
+   "name": "SearchPhone",
+   "category": "people",
+   "inputs": [
+    "phone"
+   ],
+   "repo": "HackUnderway/SearchPhone",
+   "stars": 2186,
+   "language": "Python",
+   "license": "MIT",
+   "archived": false,
+   "last_commit_at": "2026-08-24T07:57:45Z",
+   "pushed_at": "2026-08-24T07:57:56Z",
+   "listing_url": "https://osinttools.io/tools/searchphone/",
+   "alternatives_url": "https://osinttools.io/tools/searchphone/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "ignorant",
+   "name": "Ignorant",
+   "category": "people",
+   "inputs": [
+    "phone"
+   ],
+   "repo": "megadose/ignorant",
+   "stars": 2179,
+   "language": "Python",
+   "license": "GPL-3.0",
+   "archived": false,
+   "last_commit_at": "2023-12-29T16:42:33Z",
+   "pushed_at": "2024-07-27T06:11:44Z",
+   "listing_url": "https://osinttools.io/tools/ignorant/",
+   "alternatives_url": "https://osinttools.io/tools/ignorant/alternatives/",
+   "state": "dormant"
+  },
+  {
+   "slug": "mediainfo",
+   "name": "MediaInfo",
+   "category": "documents",
+   "inputs": [
+    "file"
+   ],
+   "repo": "MediaArea/MediaInfo",
+   "stars": 2079,
+   "language": "C++",
+   "license": "BSD-2-Clause",
+   "archived": false,
+   "last_commit_at": "2026-11-24T12:51:05Z",
+   "pushed_at": "2026-11-24T12:51:05Z",
+   "listing_url": "https://osinttools.io/tools/mediainfo/",
+   "alternatives_url": "https://osinttools.io/tools/mediainfo/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "tinfoleak",
+   "name": "tinfoleak",
+   "category": "social-media",
+   "inputs": [
+    "username"
+   ],
+   "repo": "vaguileradiaz/tinfoleak",
+   "stars": 1988,
+   "language": "Python",
+   "license": "CC-BY-SA-4.0",
+   "archived": false,
+   "last_commit_at": "2018-04-10T11:35:04Z",
+   "pushed_at": "2019-02-06T22:22:17Z",
+   "listing_url": "https://osinttools.io/tools/tinfoleak/",
+   "alternatives_url": "https://osinttools.io/tools/tinfoleak/alternatives/",
+   "state": "dormant"
+  },
+  {
+   "slug": "asn",
+   "name": "ASN Lookup Tool and Traceroute Server",
+   "category": "infrastructure",
+   "inputs": [
+    "ip",
+    "domain",
+    "url"
+   ],
+   "repo": "nitefood/asn",
+   "stars": 1955,
+   "language": "Shell",
+   "license": "MIT",
+   "archived": false,
+   "last_commit_at": "2026-10-02T17:44:03Z",
+   "pushed_at": "2026-10-02T17:44:10Z",
+   "listing_url": "https://osinttools.io/tools/asn/",
+   "alternatives_url": "https://osinttools.io/tools/asn/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "linkedin2username",
+   "name": "linkedin2username",
+   "category": "people",
+   "inputs": [
+    "name"
+   ],
+   "repo": "initstring/linkedin2username",
+   "stars": 1916,
+   "language": "Python",
+   "license": "MIT",
+   "archived": false,
+   "last_commit_at": "2026-05-20T23:16:29Z",
+   "pushed_at": "2026-05-20T23:16:42Z",
+   "listing_url": "https://osinttools.io/tools/linkedin2username/",
+   "alternatives_url": "https://osinttools.io/tools/linkedin2username/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "mitaka",
+   "name": "Mitaka",
+   "category": "threat-intelligence",
+   "inputs": [
+    "ip",
+    "domain",
+    "url",
+    "email",
+    "crypto"
+   ],
+   "repo": "ninoseki/mitaka",
+   "stars": 1896,
+   "language": "TypeScript",
+   "license": "MIT",
+   "archived": false,
+   "last_commit_at": "2026-11-21T03:42:58Z",
+   "pushed_at": "2026-11-21T03:54:02Z",
+   "listing_url": "https://osinttools.io/tools/mitaka/",
+   "alternatives_url": "https://osinttools.io/tools/mitaka/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "socialscan",
+   "name": "socialscan",
+   "category": "social-media",
+   "inputs": [
+    "username",
+    "email"
+   ],
+   "repo": "iojw/socialscan",
+   "stars": 1877,
+   "language": "Python",
+   "license": "MPL-2.0",
+   "archived": false,
+   "last_commit_at": "2024-01-21T05:49:23Z",
+   "pushed_at": "2026-10-28T05:42:32Z",
+   "listing_url": "https://osinttools.io/tools/socialscan/",
+   "alternatives_url": "https://osinttools.io/tools/socialscan/alternatives/",
+   "state": "dormant"
+  },
+  {
+   "slug": "metabigor",
+   "name": "Metabigor",
+   "category": "infrastructure",
+   "inputs": [
+    "domain",
+    "ip"
+   ],
+   "repo": "j3ssie/metabigor",
+   "stars": 1874,
+   "language": "Go",
+   "license": "MIT",
+   "archived": false,
+   "last_commit_at": "2026-08-08T16:19:56Z",
+   "pushed_at": "2026-08-08T16:20:35Z",
+   "listing_url": "https://osinttools.io/tools/metabigor/",
+   "alternatives_url": "https://osinttools.io/tools/metabigor/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "onionsearch",
+   "name": "OnionSearch",
+   "category": "dark-web",
+   "inputs": [
+    "name"
+   ],
+   "repo": "megadose/OnionSearch",
+   "stars": 1852,
+   "language": "Python",
+   "license": "GPL-3.0",
+   "archived": false,
+   "last_commit_at": "2023-12-29T16:42:42Z",
+   "pushed_at": "2024-08-08T11:31:59Z",
+   "listing_url": "https://osinttools.io/tools/onionsearch/",
+   "alternatives_url": "https://osinttools.io/tools/onionsearch/alternatives/",
+   "state": "dormant"
+  },
+  {
+   "slug": "detectdee",
+   "name": "DetectDee",
+   "category": "social-media",
+   "inputs": [
+    "username",
+    "email",
+    "phone"
+   ],
+   "repo": "Yvesssn/DetectDee",
+   "stars": 1841,
+   "language": "Go",
+   "license": "Apache-2.0",
+   "archived": false,
+   "last_commit_at": "2023-07-19T12:31:26Z",
+   "pushed_at": "2023-08-26T09:42:08Z",
+   "listing_url": "https://osinttools.io/tools/detectdee/",
+   "alternatives_url": "https://osinttools.io/tools/detectdee/alternatives/",
+   "state": "dormant"
+  },
+  {
+   "slug": "phishing-catcher",
+   "name": "Phishing Catcher",
+   "category": "threat-intelligence",
+   "inputs": [
+    "domain"
+   ],
+   "repo": "x0rz/phishing_catcher",
+   "stars": 1832,
+   "language": "Python",
+   "license": "GPL-3.0",
+   "archived": false,
+   "last_commit_at": "2020-12-08T10:11:30Z",
+   "pushed_at": "2024-08-13T22:18:01Z",
+   "listing_url": "https://osinttools.io/tools/phishing-catcher/",
+   "alternatives_url": "https://osinttools.io/tools/phishing-catcher/alternatives/",
+   "state": "dormant"
+  },
+  {
+   "slug": "darkdump",
+   "name": "Darkdump",
+   "category": "dark-web",
+   "inputs": [
+    "name",
+    "email",
+    "domain"
+   ],
+   "repo": "josh0xA/darkdump",
+   "stars": 1829,
+   "language": "Python",
+   "license": "MIT",
+   "archived": false,
+   "last_commit_at": "2026-04-08T03:11:37Z",
+   "pushed_at": "2026-04-08T03:11:37Z",
+   "listing_url": "https://osinttools.io/tools/darkdump/",
+   "alternatives_url": "https://osinttools.io/tools/darkdump/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "fast-google-dorks-scan",
+   "name": "Fast Google Dorks Scan",
+   "category": "infrastructure",
+   "inputs": [
+    "domain"
+   ],
+   "repo": "IvanGlinkin/Fast-Google-Dorks-Scan",
+   "stars": 1746,
+   "language": "Shell",
+   "license": null,
+   "archived": false,
+   "last_commit_at": "2025-07-10T12:59:06Z",
+   "pushed_at": "2025-07-10T12:59:07Z",
+   "listing_url": "https://osinttools.io/tools/fast-google-dorks-scan/",
+   "alternatives_url": "https://osinttools.io/tools/fast-google-dorks-scan/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "instagramosint",
+   "name": "InstagramOSINT",
+   "category": "social-media",
+   "inputs": [
+    "username"
+   ],
+   "repo": "sc1341/InstagramOSINT",
+   "stars": 1714,
+   "language": "Python",
+   "license": "MIT",
+   "archived": true,
+   "last_commit_at": "2024-06-08T14:28:39Z",
+   "pushed_at": "2024-06-08T14:28:39Z",
+   "listing_url": "https://osinttools.io/tools/instagramosint/",
+   "alternatives_url": "https://osinttools.io/tools/instagramosint/alternatives/",
+   "state": "archived"
+  },
+  {
+   "slug": "whatbreach",
+   "name": "WhatBreach",
+   "category": "dark-web",
+   "inputs": [
+    "email"
+   ],
+   "repo": "Ekultek/WhatBreach",
+   "stars": 1708,
+   "language": "Python",
+   "license": null,
+   "archived": false,
+   "last_commit_at": "2025-08-14T14:29:39Z",
+   "pushed_at": "2025-08-14T14:29:48Z",
+   "listing_url": "https://osinttools.io/tools/whatbreach/",
+   "alternatives_url": "https://osinttools.io/tools/whatbreach/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "urlhunter",
+   "name": "urlhunter",
+   "category": "data-capturing",
+   "inputs": [
+    "domain",
+    "url"
+   ],
+   "repo": "utkusen/urlhunter",
+   "stars": 1703,
+   "language": "Go",
+   "license": "MIT",
+   "archived": false,
+   "last_commit_at": "2025-01-23T15:47:00Z",
+   "pushed_at": "2025-01-23T15:48:12Z",
+   "listing_url": "https://osinttools.io/tools/urlhunter/",
+   "alternatives_url": "https://osinttools.io/tools/urlhunter/alternatives/",
+   "state": "dormant"
+  },
+  {
+   "slug": "crosslinked",
+   "name": "CrossLinked",
+   "category": "people",
+   "inputs": [
+    "name"
+   ],
+   "repo": "m8sec/CrossLinked",
+   "stars": 1652,
+   "language": "Python",
+   "license": "GPL-3.0",
+   "archived": false,
+   "last_commit_at": "2024-11-26T12:52:16Z",
+   "pushed_at": "2024-11-26T12:52:16Z",
+   "listing_url": "https://osinttools.io/tools/crosslinked/",
+   "alternatives_url": "https://osinttools.io/tools/crosslinked/alternatives/",
+   "state": "dormant"
+  },
+  {
+   "slug": "goofuzz",
+   "name": "GooFuzz",
+   "category": "infrastructure",
+   "inputs": [
+    "domain",
+    "ip"
+   ],
+   "repo": "m3n0sd0n4ld/GooFuzz",
+   "stars": 1593,
+   "language": "Shell",
+   "license": "GPL-3.0",
+   "archived": false,
+   "last_commit_at": "2025-12-21T07:24:45Z",
+   "pushed_at": "2025-12-21T07:24:46Z",
+   "listing_url": "https://osinttools.io/tools/goofuzz/",
+   "alternatives_url": "https://osinttools.io/tools/goofuzz/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "bigbountyrecon",
+   "name": "BigBountyRecon",
+   "category": "infrastructure",
+   "inputs": [
+    "domain"
+   ],
+   "repo": "Viralmaniar/BigBountyRecon",
+   "stars": 1577,
+   "language": "C#",
+   "license": "MIT",
+   "archived": false,
+   "last_commit_at": "2021-01-21T01:03:11Z",
+   "pushed_at": "2021-01-29T21:44:06Z",
+   "listing_url": "https://osinttools.io/tools/bigbountyrecon/",
+   "alternatives_url": "https://osinttools.io/tools/bigbountyrecon/alternatives/",
+   "state": "dormant"
+  },
+  {
+   "slug": "gitgot",
+   "name": "GitGot",
+   "category": "infrastructure",
+   "inputs": [
+    "domain",
+    "name"
+   ],
+   "repo": "BishopFox/GitGot",
+   "stars": 1577,
+   "language": "Python",
+   "license": "LGPL-3.0",
+   "archived": false,
+   "last_commit_at": "2024-03-07T13:48:47Z",
+   "pushed_at": "2024-03-07T13:48:48Z",
+   "listing_url": "https://osinttools.io/tools/gitgot/",
+   "alternatives_url": "https://osinttools.io/tools/gitgot/alternatives/",
+   "state": "dormant"
+  },
+  {
+   "slug": "osint-spy",
+   "name": "OSINT-SPY",
+   "category": "data-capturing",
+   "inputs": [
+    "domain",
+    "email",
+    "ip",
+    "crypto",
+    "file"
+   ],
+   "repo": "SharadKumar97/OSINT-SPY",
+   "stars": 1570,
+   "language": "Python",
+   "license": "GPL-3.0",
+   "archived": false,
+   "last_commit_at": "2020-04-02T06:25:28Z",
+   "pushed_at": "2023-10-23T09:13:23Z",
+   "listing_url": "https://osinttools.io/tools/osint-spy/",
+   "alternatives_url": "https://osinttools.io/tools/osint-spy/alternatives/",
+   "state": "dormant"
+  },
+  {
+   "slug": "domain-digger",
+   "name": "Domain Digger",
+   "category": "infrastructure",
+   "inputs": [
+    "domain",
+    "ip"
+   ],
+   "repo": "wotschofsky/domain-digger",
+   "stars": 1562,
+   "language": "TypeScript",
+   "license": "AGPL-3.0",
+   "archived": false,
+   "last_commit_at": "2026-11-23T16:16:37Z",
+   "pushed_at": "2026-11-23T16:16:38Z",
+   "listing_url": "https://osinttools.io/tools/domain-digger/",
+   "alternatives_url": "https://osinttools.io/tools/domain-digger/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "geowifi",
+   "name": "geowifi",
+   "category": "geolocation",
+   "inputs": [
+    "name"
+   ],
+   "repo": "GONZOsint/geowifi",
+   "stars": 1525,
+   "language": "Python",
+   "license": null,
+   "archived": false,
+   "last_commit_at": "2026-09-09T07:06:19Z",
+   "pushed_at": "2026-09-09T07:06:19Z",
+   "listing_url": "https://osinttools.io/tools/geowifi/",
+   "alternatives_url": "https://osinttools.io/tools/geowifi/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "gasmask",
+   "name": "GasMasK",
+   "category": "infrastructure",
+   "inputs": [
+    "domain"
+   ],
+   "repo": "twelvesec/gasmask",
+   "stars": 1520,
+   "language": "Python",
+   "license": "GPL-3.0",
+   "archived": false,
+   "last_commit_at": "2021-05-05T14:19:54Z",
+   "pushed_at": "2021-06-11T08:13:53Z",
+   "listing_url": "https://osinttools.io/tools/gasmask/",
+   "alternatives_url": "https://osinttools.io/tools/gasmask/alternatives/",
+   "state": "dormant"
+  },
+  {
+   "slug": "creepy",
+   "name": "Creepy",
+   "category": "geolocation",
+   "inputs": [
+    "username"
+   ],
+   "repo": "ilektrojohn/creepy",
+   "stars": 1506,
+   "language": "Python",
+   "license": "GPL-3.0",
+   "archived": false,
+   "last_commit_at": "2014-02-02T19:44:19Z",
+   "pushed_at": "2016-01-07T12:51:33Z",
+   "listing_url": "https://osinttools.io/tools/creepy/",
+   "alternatives_url": "https://osinttools.io/tools/creepy/alternatives/",
+   "state": "dormant"
+  },
+  {
+   "slug": "githound",
+   "name": "GitHound",
+   "category": "threat-intelligence",
+   "inputs": [
+    "domain"
+   ],
+   "repo": "tillson/git-hound",
+   "stars": 1475,
+   "language": "Go",
+   "license": "MIT",
+   "archived": false,
+   "last_commit_at": "2025-11-20T02:26:10Z",
+   "pushed_at": "2026-02-10T00:32:15Z",
+   "listing_url": "https://osinttools.io/tools/githound/",
+   "alternatives_url": "https://osinttools.io/tools/githound/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "watcher",
+   "name": "Watcher",
+   "category": "threat-intelligence",
+   "inputs": [
+    "domain",
+    "name"
+   ],
+   "repo": "thalesgroup-cert/Watcher",
+   "stars": 1456,
+   "language": "JavaScript",
+   "license": "AGPL-3.0",
+   "archived": false,
+   "last_commit_at": "2026-11-23T14:56:54Z",
+   "pushed_at": "2026-11-23T23:25:20Z",
+   "listing_url": "https://osinttools.io/tools/watcher/",
+   "alternatives_url": "https://osinttools.io/tools/watcher/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "buster",
+   "name": "Buster",
+   "category": "people",
+   "inputs": [
+    "email",
+    "name",
+    "username"
+   ],
+   "repo": "sham00n/buster",
+   "stars": 1448,
+   "language": "Python",
+   "license": "GPL-3.0",
+   "archived": false,
+   "last_commit_at": "2019-08-10T15:38:30Z",
+   "pushed_at": "2020-03-26T16:41:38Z",
+   "listing_url": "https://osinttools.io/tools/buster/",
+   "alternatives_url": "https://osinttools.io/tools/buster/alternatives/",
+   "state": "dormant"
+  },
+  {
+   "slug": "attacksurfacemapper",
+   "name": "AttackSurfaceMapper",
+   "category": "infrastructure",
+   "inputs": [
+    "domain",
+    "ip"
+   ],
+   "repo": "superhedgy/AttackSurfaceMapper",
+   "stars": 1413,
+   "language": "Python",
+   "license": "GPL-3.0",
+   "archived": false,
+   "last_commit_at": "2023-09-11T05:26:53Z",
+   "pushed_at": "2024-04-08T16:13:24Z",
+   "listing_url": "https://osinttools.io/tools/attacksurfacemapper/",
+   "alternatives_url": "https://osinttools.io/tools/attacksurfacemapper/alternatives/",
+   "state": "dormant"
+  },
+  {
+   "slug": "whatsapp-osint",
+   "name": "WhatsApp OSINT",
+   "category": "social-media",
+   "inputs": [
+    "phone"
+   ],
+   "repo": "kinghacker0/WhatsApp-OSINT",
+   "stars": 1331,
+   "language": "Python",
+   "license": null,
+   "archived": false,
+   "last_commit_at": "2025-10-16T11:21:30Z",
+   "pushed_at": "2025-10-16T11:21:30Z",
+   "listing_url": "https://osinttools.io/tools/whatsapp-osint/",
+   "alternatives_url": "https://osinttools.io/tools/whatsapp-osint/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "favfreak",
+   "name": "FavFreak",
+   "category": "infrastructure",
+   "inputs": [
+    "url"
+   ],
+   "repo": "devanshbatham/FavFreak",
+   "stars": 1321,
+   "language": "Python",
+   "license": "MIT",
+   "archived": false,
+   "last_commit_at": "2023-08-29T16:38:07Z",
+   "pushed_at": "2023-08-29T16:38:07Z",
+   "listing_url": "https://osinttools.io/tools/favfreak/",
+   "alternatives_url": "https://osinttools.io/tools/favfreak/alternatives/",
+   "state": "dormant"
+  },
+  {
+   "slug": "harpoon",
+   "name": "Harpoon",
+   "category": "threat-intelligence",
+   "inputs": [
+    "ip",
+    "domain",
+    "email",
+    "url",
+    "phone",
+    "username"
+   ],
+   "repo": "Te-k/harpoon",
+   "stars": 1300,
+   "language": "Python",
+   "license": "GPL-3.0",
+   "archived": false,
+   "last_commit_at": "2026-11-24T03:33:59Z",
+   "pushed_at": "2026-11-24T03:34:00Z",
+   "listing_url": "https://osinttools.io/tools/harpoon/",
+   "alternatives_url": "https://osinttools.io/tools/harpoon/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "overpass-turbo",
+   "name": "Overpass Turbo",
+   "category": "geolocation",
+   "inputs": [
+    "name"
+   ],
+   "repo": "tyrasd/overpass-turbo",
+   "stars": 1270,
+   "language": "TypeScript",
+   "license": null,
+   "archived": false,
+   "last_commit_at": "2026-11-17T15:14:28Z",
+   "pushed_at": "2026-11-17T15:14:36Z",
+   "listing_url": "https://osinttools.io/tools/overpass-turbo/",
+   "alternatives_url": "https://osinttools.io/tools/overpass-turbo/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "telepathy",
+   "name": "Telepathy",
+   "category": "social-media",
+   "inputs": [
+    "username",
+    "url"
+   ],
+   "repo": "prose-intelligence-ltd/Telepathy-Community",
+   "stars": 1264,
+   "language": "Python",
+   "license": "MIT",
+   "archived": false,
+   "last_commit_at": "2026-08-10T14:43:08Z",
+   "pushed_at": "2026-08-13T06:26:37Z",
+   "listing_url": "https://osinttools.io/tools/telepathy/",
+   "alternatives_url": "https://osinttools.io/tools/telepathy/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "phunter",
+   "name": "Phunter",
+   "category": "people",
+   "inputs": [
+    "phone"
+   ],
+   "repo": "N0rz3/Phunter",
+   "stars": 1258,
+   "language": "Python",
+   "license": "GPL-3.0",
+   "archived": false,
+   "last_commit_at": "2024-04-06T12:00:36Z",
+   "pushed_at": "2024-04-06T12:00:36Z",
+   "listing_url": "https://osinttools.io/tools/phunter/",
+   "alternatives_url": "https://osinttools.io/tools/phunter/alternatives/",
+   "state": "dormant"
+  },
+  {
+   "slug": "taranis-ai",
+   "name": "Taranis AI",
+   "category": "threat-intelligence",
+   "inputs": [
+    "url"
+   ],
+   "repo": "taranis-ai/taranis-ai",
+   "stars": 1246,
+   "language": "Python",
+   "license": "EUPL-1.2",
+   "archived": false,
+   "last_commit_at": "2026-11-24T08:46:29Z",
+   "pushed_at": "2026-11-25T09:07:24Z",
+   "listing_url": "https://osinttools.io/tools/taranis-ai/",
+   "alternatives_url": "https://osinttools.io/tools/taranis-ai/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "open-semantic-search",
+   "name": "Open Semantic Search",
+   "category": "documents",
+   "inputs": [
+    "file"
+   ],
+   "repo": "opensemanticsearch/open-semantic-search",
+   "stars": 1236,
+   "language": "Shell",
+   "license": "GPL-3.0",
+   "archived": false,
+   "last_commit_at": "2025-04-19T14:57:10Z",
+   "pushed_at": "2025-04-19T14:57:11Z",
+   "listing_url": "https://osinttools.io/tools/open-semantic-search/",
+   "alternatives_url": "https://osinttools.io/tools/open-semantic-search/alternatives/",
+   "state": "dormant"
+  },
+  {
+   "slug": "owasp-maryam",
+   "name": "OWASP Maryam",
+   "category": "data-capturing",
+   "inputs": [
+    "domain",
+    "name"
+   ],
+   "repo": "saeeddhqan/Maryam",
+   "stars": 1230,
+   "language": "Python",
+   "license": "GPL-3.0",
+   "archived": true,
+   "last_commit_at": "2024-09-19T18:15:58Z",
+   "pushed_at": "2024-09-19T18:18:53Z",
+   "listing_url": "https://osinttools.io/tools/owasp-maryam/",
+   "alternatives_url": "https://osinttools.io/tools/owasp-maryam/alternatives/",
+   "state": "archived"
+  },
+  {
+   "slug": "fav-up",
+   "name": "Fav-up",
+   "category": "infrastructure",
+   "inputs": [
+    "domain",
+    "url",
+    "image"
+   ],
+   "repo": "pielco11/fav-up",
+   "stars": 1209,
+   "language": "Python",
+   "license": "MIT",
+   "archived": false,
+   "last_commit_at": "2025-02-05T05:19:52Z",
+   "pushed_at": "2025-02-05T05:20:00Z",
+   "listing_url": "https://osinttools.io/tools/fav-up/",
+   "alternatives_url": "https://osinttools.io/tools/fav-up/alternatives/",
+   "state": "dormant"
+  },
+  {
+   "slug": "trace-labs-osint-vm",
+   "name": "Trace Labs OSINT VM",
+   "category": "data-capturing",
+   "inputs": [
+    "username",
+    "email",
+    "phone",
+    "domain",
+    "image"
+   ],
+   "repo": "tracelabs/tlosint-vm",
+   "stars": 1199,
+   "language": "Shell",
+   "license": "GPL-3.0",
+   "archived": false,
+   "last_commit_at": "2026-11-10T23:16:22Z",
+   "pushed_at": "2026-11-12T01:36:07Z",
+   "listing_url": "https://osinttools.io/tools/trace-labs-osint-vm/",
+   "alternatives_url": "https://osinttools.io/tools/trace-labs-osint-vm/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "horus",
+   "name": "Horus",
+   "category": "data-capturing",
+   "inputs": [
+    "ip",
+    "phone",
+    "crypto",
+    "image"
+   ],
+   "repo": "6abd/horus",
+   "stars": 1179,
+   "language": "Python",
+   "license": "GPL-3.0",
+   "archived": false,
+   "last_commit_at": "2026-07-29T18:06:28Z",
+   "pushed_at": "2026-07-29T18:06:35Z",
+   "listing_url": "https://osinttools.io/tools/horus/",
+   "alternatives_url": "https://osinttools.io/tools/horus/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "hosthunter",
+   "name": "HostHunter",
+   "category": "infrastructure",
+   "inputs": [
+    "ip",
+    "file"
+   ],
+   "repo": "SpiderLabs/HostHunter",
+   "stars": 1179,
+   "language": "Python",
+   "license": "MIT",
+   "archived": false,
+   "last_commit_at": "2023-03-30T14:14:11Z",
+   "pushed_at": "2023-03-30T14:14:12Z",
+   "listing_url": "https://osinttools.io/tools/hosthunter/",
+   "alternatives_url": "https://osinttools.io/tools/hosthunter/alternatives/",
+   "state": "dormant"
+  },
+  {
+   "slug": "geointel",
+   "name": "GeoIntel",
+   "category": "geolocation",
+   "inputs": [
+    "image",
+    "url"
+   ],
+   "repo": "atiilla/GeoIntel",
+   "stars": 1168,
+   "language": "HTML",
+   "license": "MIT",
+   "archived": false,
+   "last_commit_at": "2026-03-09T23:13:37Z",
+   "pushed_at": "2026-03-09T23:20:10Z",
+   "listing_url": "https://osinttools.io/tools/geointel/",
+   "alternatives_url": "https://osinttools.io/tools/geointel/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "infoooze",
+   "name": "Infoooze",
+   "category": "data-capturing",
+   "inputs": [
+    "username",
+    "ip",
+    "domain",
+    "url",
+    "email",
+    "image"
+   ],
+   "repo": "devxprite/infoooze",
+   "stars": 1162,
+   "language": "JavaScript",
+   "license": "MIT",
+   "archived": false,
+   "last_commit_at": "2023-10-31T14:57:16Z",
+   "pushed_at": "2023-10-31T14:57:16Z",
+   "listing_url": "https://osinttools.io/tools/infoooze/",
+   "alternatives_url": "https://osinttools.io/tools/infoooze/alternatives/",
+   "state": "dormant"
+  },
+  {
+   "slug": "asnmap",
+   "name": "asnmap",
+   "category": "infrastructure",
+   "inputs": [
+    "domain",
+    "ip"
+   ],
+   "repo": "projectdiscovery/asnmap",
+   "stars": 1157,
+   "language": "Go",
+   "license": "MIT",
+   "archived": false,
+   "last_commit_at": "2026-11-16T14:55:25Z",
+   "pushed_at": "2026-11-21T16:47:04Z",
+   "listing_url": "https://osinttools.io/tools/asnmap/",
+   "alternatives_url": "https://osinttools.io/tools/asnmap/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "skiptracer",
+   "name": "Skiptracer",
+   "category": "people",
+   "inputs": [
+    "phone",
+    "email",
+    "username",
+    "name",
+    "ip",
+    "domain"
+   ],
+   "repo": "xillwillx/skiptracer",
+   "stars": 1145,
+   "language": "Python",
+   "license": "Apache-2.0",
+   "archived": false,
+   "last_commit_at": "2020-12-19T23:51:49Z",
+   "pushed_at": "2022-12-08T11:00:49Z",
+   "listing_url": "https://osinttools.io/tools/skiptracer/",
+   "alternatives_url": "https://osinttools.io/tools/skiptracer/alternatives/",
+   "state": "dormant"
+  },
+  {
+   "slug": "socid-extractor",
+   "name": "socid_extractor",
+   "category": "social-media",
+   "inputs": [
+    "url"
+   ],
+   "repo": "soxoj/socid-extractor",
+   "stars": 1144,
+   "language": "Python",
+   "license": "MIT",
+   "archived": false,
+   "last_commit_at": "2026-11-20T13:35:17Z",
+   "pushed_at": "2026-11-20T13:35:52Z",
+   "listing_url": "https://osinttools.io/tools/socid-extractor/",
+   "alternatives_url": "https://osinttools.io/tools/socid-extractor/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "zehef",
+   "name": "Zehef",
+   "category": "people",
+   "inputs": [
+    "email"
+   ],
+   "repo": "N0rz3/Zehef",
+   "stars": 1103,
+   "language": "Python",
+   "license": "GPL-3.0",
+   "archived": false,
+   "last_commit_at": "2024-11-13T15:26:30Z",
+   "pushed_at": "2024-11-13T15:26:30Z",
+   "listing_url": "https://osinttools.io/tools/zehef/",
+   "alternatives_url": "https://osinttools.io/tools/zehef/alternatives/",
+   "state": "dormant"
+  },
+  {
+   "slug": "wholeaked",
+   "name": "wholeaked",
+   "category": "documents",
+   "inputs": [
+    "file"
+   ],
+   "repo": "utkusen/wholeaked",
+   "stars": 1101,
+   "language": "Go",
+   "license": "BSD-3-Clause",
+   "archived": false,
+   "last_commit_at": "2022-01-31T13:16:52Z",
+   "pushed_at": "2022-01-31T13:16:52Z",
+   "listing_url": "https://osinttools.io/tools/wholeaked/",
+   "alternatives_url": "https://osinttools.io/tools/wholeaked/alternatives/",
+   "state": "dormant"
+  },
+  {
+   "slug": "dnsgen",
+   "name": "DNSGen",
+   "category": "infrastructure",
+   "inputs": [
+    "domain"
+   ],
+   "repo": "AlephNullSK/dnsgen",
+   "stars": 1083,
+   "language": "Python",
+   "license": "MIT",
+   "archived": false,
+   "last_commit_at": "2025-01-03T20:34:34Z",
+   "pushed_at": "2025-01-03T20:34:39Z",
+   "listing_url": "https://osinttools.io/tools/dnsgen/",
+   "alternatives_url": "https://osinttools.io/tools/dnsgen/alternatives/",
+   "state": "dormant"
+  },
+  {
+   "slug": "sitedorks",
+   "name": "SiteDorks",
+   "category": "data-capturing",
+   "inputs": [
+    "name",
+    "domain"
+   ],
+   "repo": "Zarcolio/sitedorks",
+   "stars": 1074,
+   "language": "Python",
+   "license": "GPL-3.0",
+   "archived": false,
+   "last_commit_at": "2026-11-23T11:00:27Z",
+   "pushed_at": "2026-11-23T11:00:27Z",
+   "listing_url": "https://osinttools.io/tools/sitedorks/",
+   "alternatives_url": "https://osinttools.io/tools/sitedorks/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "daprofiler",
+   "name": "DaProfiler",
+   "category": "people",
+   "inputs": [
+    "name"
+   ],
+   "repo": "daprofiler/DaProfiler",
+   "stars": 1062,
+   "language": "Python",
+   "license": "GPL-3.0",
+   "archived": true,
+   "last_commit_at": "2023-09-27T18:05:53Z",
+   "pushed_at": "2023-09-27T18:05:53Z",
+   "listing_url": "https://osinttools.io/tools/daprofiler/",
+   "alternatives_url": "https://osinttools.io/tools/daprofiler/alternatives/",
+   "state": "archived"
+  },
+  {
+   "slug": "urs",
+   "name": "URS",
+   "category": "social-media",
+   "inputs": [
+    "username",
+    "url"
+   ],
+   "repo": "JosephLai241/URS",
+   "stars": 1049,
+   "language": "Python",
+   "license": "MIT",
+   "archived": false,
+   "last_commit_at": "2026-07-11T20:53:23Z",
+   "pushed_at": "2026-07-11T20:53:25Z",
+   "listing_url": "https://osinttools.io/tools/urs/",
+   "alternatives_url": "https://osinttools.io/tools/urs/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "karma-v2",
+   "name": "karma v2",
+   "category": "infrastructure",
+   "inputs": [
+    "domain"
+   ],
+   "repo": "Dheerajmadhukar/karma_v2",
+   "stars": 1040,
+   "language": "Shell",
+   "license": null,
+   "archived": false,
+   "last_commit_at": "2024-06-13T18:33:37Z",
+   "pushed_at": "2025-05-21T04:27:18Z",
+   "listing_url": "https://osinttools.io/tools/karma-v2/",
+   "alternatives_url": "https://osinttools.io/tools/karma-v2/alternatives/",
+   "state": "dormant"
+  },
+  {
+   "slug": "xeuledoc",
+   "name": "xeuledoc",
+   "category": "documents",
+   "inputs": [
+    "url"
+   ],
+   "repo": "Malfrats/xeuledoc",
+   "stars": 1040,
+   "language": "Python",
+   "license": "GPL-3.0",
+   "archived": false,
+   "last_commit_at": "2021-05-16T21:42:26Z",
+   "pushed_at": "2023-11-14T11:57:38Z",
+   "listing_url": "https://osinttools.io/tools/xeuledoc/",
+   "alternatives_url": "https://osinttools.io/tools/xeuledoc/alternatives/",
+   "state": "dormant"
+  },
+  {
+   "slug": "linkook",
+   "name": "Linkook",
+   "category": "social-media",
+   "inputs": [
+    "username"
+   ],
+   "repo": "JackJuly/linkook",
+   "stars": 1039,
+   "language": "Python",
+   "license": "MIT",
+   "archived": false,
+   "last_commit_at": "2026-10-01T08:21:07Z",
+   "pushed_at": "2026-10-01T08:21:35Z",
+   "listing_url": "https://osinttools.io/tools/linkook/",
+   "alternatives_url": "https://osinttools.io/tools/linkook/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "gitfive",
+   "name": "GitFive",
+   "category": "people",
+   "inputs": [
+    "username",
+    "email"
+   ],
+   "repo": "mxrch/GitFive",
+   "stars": 1038,
+   "language": "Python",
+   "license": "MPL-2.0",
+   "archived": false,
+   "last_commit_at": "2025-10-04T15:33:37Z",
+   "pushed_at": "2025-10-04T15:33:37Z",
+   "listing_url": "https://osinttools.io/tools/gitfive/",
+   "alternatives_url": "https://osinttools.io/tools/gitfive/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "sigit",
+   "name": "SIGIT",
+   "category": "data-capturing",
+   "inputs": [
+    "domain",
+    "email",
+    "ip",
+    "phone",
+    "username",
+    "url"
+   ],
+   "repo": "termuxhackers-id/sigit",
+   "stars": 1013,
+   "language": "Python",
+   "license": "Unlicense",
+   "archived": false,
+   "last_commit_at": "2026-10-04T16:04:12Z",
+   "pushed_at": "2026-10-04T16:15:00Z",
+   "listing_url": "https://osinttools.io/tools/sigit/",
+   "alternatives_url": "https://osinttools.io/tools/sigit/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "iky",
+   "name": "iKy",
+   "category": "people",
+   "inputs": [
+    "email",
+    "username"
+   ],
+   "repo": "kennbroorg/iKy",
+   "stars": 994,
+   "language": "Python",
+   "license": "GPL-3.0",
+   "archived": false,
+   "last_commit_at": "2026-11-23T01:19:40Z",
+   "pushed_at": "2026-11-23T01:50:01Z",
+   "listing_url": "https://osinttools.io/tools/iky/",
+   "alternatives_url": "https://osinttools.io/tools/iky/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "opensquat",
+   "name": "openSquat",
+   "category": "threat-intelligence",
+   "inputs": [
+    "domain",
+    "name"
+   ],
+   "repo": "atenreiro/opensquat",
+   "stars": 992,
+   "language": "Python",
+   "license": "GPL-3.0",
+   "archived": false,
+   "last_commit_at": "2026-10-27T03:20:44Z",
+   "pushed_at": "2026-10-27T03:20:44Z",
+   "listing_url": "https://osinttools.io/tools/opensquat/",
+   "alternatives_url": "https://osinttools.io/tools/opensquat/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "osintgraph",
+   "name": "Osintgraph",
+   "category": "social-media",
+   "inputs": [
+    "username"
+   ],
+   "repo": "XD-MHLOO/Osintgraph",
+   "stars": 984,
+   "language": "Python",
+   "license": "GPL-3.0",
+   "archived": false,
+   "last_commit_at": "2026-05-10T22:14:46Z",
+   "pushed_at": "2026-05-10T22:14:47Z",
+   "listing_url": "https://osinttools.io/tools/osintgraph/",
+   "alternatives_url": "https://osinttools.io/tools/osintgraph/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "subscraper",
+   "name": "SubScraper",
+   "category": "infrastructure",
+   "inputs": [
+    "domain"
+   ],
+   "repo": "m8sec/subscraper",
+   "stars": 980,
+   "language": "Python",
+   "license": "GPL-3.0",
+   "archived": false,
+   "last_commit_at": "2024-06-19T14:26:12Z",
+   "pushed_at": "2024-06-19T14:26:13Z",
+   "listing_url": "https://osinttools.io/tools/subscraper/",
+   "alternatives_url": "https://osinttools.io/tools/subscraper/alternatives/",
+   "state": "dormant"
+  },
+  {
+   "slug": "mailcat",
+   "name": "mailcat",
+   "category": "people",
+   "inputs": [
+    "username"
+   ],
+   "repo": "sharsil/mailcat",
+   "stars": 968,
+   "language": "Python",
+   "license": "Apache-2.0",
+   "archived": false,
+   "last_commit_at": "2026-09-05T21:33:28Z",
+   "pushed_at": "2026-09-05T21:33:28Z",
+   "listing_url": "https://osinttools.io/tools/mailcat/",
+   "alternatives_url": "https://osinttools.io/tools/mailcat/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "osint-toolkit",
+   "name": "OSINT Toolkit",
+   "category": "threat-intelligence",
+   "inputs": [
+    "ip",
+    "domain",
+    "url",
+    "email",
+    "file"
+   ],
+   "repo": "dev-lu/osint_toolkit",
+   "stars": 957,
+   "language": "JavaScript",
+   "license": "AGPL-3.0",
+   "archived": false,
+   "last_commit_at": "2026-04-28T18:34:39Z",
+   "pushed_at": "2026-04-28T18:34:43Z",
+   "listing_url": "https://osinttools.io/tools/osint-toolkit/",
+   "alternatives_url": "https://osinttools.io/tools/osint-toolkit/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "mihari",
+   "name": "Mihari",
+   "category": "threat-intelligence",
+   "inputs": [
+    "ip",
+    "domain",
+    "url"
+   ],
+   "repo": "ninoseki/mihari",
+   "stars": 949,
+   "language": "Ruby",
+   "license": "MIT",
+   "archived": false,
+   "last_commit_at": "2026-10-03T02:41:21Z",
+   "pushed_at": "2026-10-03T02:41:23Z",
+   "listing_url": "https://osinttools.io/tools/mihari/",
+   "alternatives_url": "https://osinttools.io/tools/mihari/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "littlebrother",
+   "name": "LittleBrother",
+   "category": "people",
+   "inputs": [
+    "name",
+    "phone",
+    "email",
+    "ip"
+   ],
+   "repo": "lulz3xploit/LittleBrother",
+   "stars": 934,
+   "language": "Python",
+   "license": null,
+   "archived": true,
+   "last_commit_at": "2021-02-20T08:42:45Z",
+   "pushed_at": "2021-02-20T08:42:45Z",
+   "listing_url": "https://osinttools.io/tools/littlebrother/",
+   "alternatives_url": "https://osinttools.io/tools/littlebrother/alternatives/",
+   "state": "archived"
+  },
+  {
+   "slug": "threatingestor",
+   "name": "ThreatIngestor",
+   "category": "threat-intelligence",
+   "inputs": [
+    "url"
+   ],
+   "repo": "pedramamini/ThreatIngestor",
+   "stars": 934,
+   "language": "Python",
+   "license": "GPL-2.0",
+   "archived": false,
+   "last_commit_at": "2026-05-26T15:01:23Z",
+   "pushed_at": "2026-05-26T15:01:24Z",
+   "listing_url": "https://osinttools.io/tools/threatingestor/",
+   "alternatives_url": "https://osinttools.io/tools/threatingestor/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "urlfinder",
+   "name": "URLFinder",
+   "category": "infrastructure",
+   "inputs": [
+    "domain"
+   ],
+   "repo": "projectdiscovery/urlfinder",
+   "stars": 923,
+   "language": "Go",
+   "license": "MIT",
+   "archived": false,
+   "last_commit_at": "2026-11-24T18:23:15Z",
+   "pushed_at": "2026-11-24T18:23:18Z",
+   "listing_url": "https://osinttools.io/tools/urlfinder/",
+   "alternatives_url": "https://osinttools.io/tools/urlfinder/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "phonenumber-osint",
+   "name": "PhoneNumber-OSINT",
+   "category": "people",
+   "inputs": [
+    "phone"
+   ],
+   "repo": "spider863644/PhoneNumber-OSINT",
+   "stars": 915,
+   "language": "Python",
+   "license": "MIT",
+   "archived": false,
+   "last_commit_at": "2025-10-21T17:24:04Z",
+   "pushed_at": "2025-10-21T17:24:04Z",
+   "listing_url": "https://osinttools.io/tools/phonenumber-osint/",
+   "alternatives_url": "https://osinttools.io/tools/phonenumber-osint/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "satintel",
+   "name": "SatIntel",
+   "category": "transport",
+   "inputs": [
+    "name"
+   ],
+   "repo": "ANG13T/SatIntel",
+   "stars": 904,
+   "language": "Go",
+   "license": null,
+   "archived": false,
+   "last_commit_at": "2023-07-10T22:47:20Z",
+   "pushed_at": "2024-03-15T16:29:23Z",
+   "listing_url": "https://osinttools.io/tools/satintel/",
+   "alternatives_url": "https://osinttools.io/tools/satintel/alternatives/",
+   "state": "dormant"
+  },
+  {
+   "slug": "seekr",
+   "name": "seekr",
+   "category": "people",
+   "inputs": [
+    "name",
+    "email",
+    "username",
+    "phone"
+   ],
+   "repo": "seekr-osint/seekr",
+   "stars": 894,
+   "language": "Go",
+   "license": "GPL-3.0",
+   "archived": false,
+   "last_commit_at": "2026-06-16T06:07:36Z",
+   "pushed_at": "2026-06-16T06:07:37Z",
+   "listing_url": "https://osinttools.io/tools/seekr/",
+   "alternatives_url": "https://osinttools.io/tools/seekr/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "scavenger",
+   "name": "Scavenger",
+   "category": "dark-web",
+   "inputs": [
+    "email",
+    "username"
+   ],
+   "repo": "rndinfosecguy/Scavenger",
+   "stars": 886,
+   "language": "Python",
+   "license": "MIT",
+   "archived": false,
+   "last_commit_at": "2026-11-24T04:54:44Z",
+   "pushed_at": "2026-11-24T04:54:47Z",
+   "listing_url": "https://osinttools.io/tools/scavenger/",
+   "alternatives_url": "https://osinttools.io/tools/scavenger/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "apk2url",
+   "name": "apk2url",
+   "category": "documents",
+   "inputs": [
+    "file"
+   ],
+   "repo": "n0mi1k/apk2url",
+   "stars": 885,
+   "language": "Shell",
+   "license": "MIT",
+   "archived": false,
+   "last_commit_at": "2024-02-24T03:56:08Z",
+   "pushed_at": "2024-02-24T03:56:10Z",
+   "listing_url": "https://osinttools.io/tools/apk2url/",
+   "alternatives_url": "https://osinttools.io/tools/apk2url/alternatives/",
+   "state": "dormant"
+  },
+  {
+   "slug": "censys-subdomain-finder",
+   "name": "Censys subdomain finder",
+   "category": "infrastructure",
+   "inputs": [
+    "domain"
+   ],
+   "repo": "christophetd/censys-subdomain-finder",
+   "stars": 855,
+   "language": "Python",
+   "license": null,
+   "archived": false,
+   "last_commit_at": "2025-05-01T09:19:31Z",
+   "pushed_at": "2025-05-01T09:19:31Z",
+   "listing_url": "https://osinttools.io/tools/censys-subdomain-finder/",
+   "alternatives_url": "https://osinttools.io/tools/censys-subdomain-finder/alternatives/",
+   "state": "dormant"
+  },
+  {
+   "slug": "osintbuddy",
+   "name": "OSINTBuddy",
+   "category": "data-capturing",
+   "inputs": [
+    "domain",
+    "url",
+    "email",
+    "username"
+   ],
+   "repo": "jerlendds/osintbuddy",
+   "stars": 840,
+   "language": "TypeScript",
+   "license": "AGPL-3.0",
+   "archived": true,
+   "last_commit_at": "2025-04-13T14:15:12Z",
+   "pushed_at": "2025-04-13T14:15:16Z",
+   "listing_url": "https://osinttools.io/tools/osintbuddy/",
+   "alternatives_url": "https://osinttools.io/tools/osintbuddy/alternatives/",
+   "state": "archived"
+  },
+  {
+   "slug": "trace-labs-osint-live",
+   "name": "Trace Labs OSINT Live (legacy)",
+   "category": "data-capturing",
+   "inputs": [
+    "username",
+    "email",
+    "domain",
+    "phone"
+   ],
+   "repo": "tracelabs/tlosint-live",
+   "stars": 837,
+   "language": "HTML",
+   "license": null,
+   "archived": false,
+   "last_commit_at": "2023-08-20T10:05:33Z",
+   "pushed_at": "2023-08-20T10:05:33Z",
+   "listing_url": "https://osinttools.io/tools/trace-labs-osint-live/",
+   "alternatives_url": "https://osinttools.io/tools/trace-labs-osint-live/alternatives/",
+   "state": "dormant"
+  },
+  {
+   "slug": "emploleaks",
+   "name": "EmploLeaks",
+   "category": "people",
+   "inputs": [
+    "name",
+    "domain",
+    "email"
+   ],
+   "repo": "infobyte/emploleaks",
+   "stars": 808,
+   "language": "Python",
+   "license": null,
+   "archived": false,
+   "last_commit_at": "2026-05-19T17:46:23Z",
+   "pushed_at": "2026-05-19T17:46:25Z",
+   "listing_url": "https://osinttools.io/tools/emploleaks/",
+   "alternatives_url": "https://osinttools.io/tools/emploleaks/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "socialhunter",
+   "name": "socialhunter",
+   "category": "infrastructure",
+   "inputs": [
+    "url"
+   ],
+   "repo": "utkusen/socialhunter",
+   "stars": 776,
+   "language": "Go",
+   "license": "MIT",
+   "archived": true,
+   "last_commit_at": "2025-01-23T11:50:26Z",
+   "pushed_at": "2025-01-23T11:50:27Z",
+   "listing_url": "https://osinttools.io/tools/socialhunter/",
+   "alternatives_url": "https://osinttools.io/tools/socialhunter/alternatives/",
+   "state": "archived"
+  },
+  {
+   "slug": "operative-framework",
+   "name": "operative framework",
+   "category": "data-capturing",
+   "inputs": [
+    "name",
+    "username",
+    "phone"
+   ],
+   "repo": "graniet/operative-framework",
+   "stars": 756,
+   "language": "Rust",
+   "license": null,
+   "archived": false,
+   "last_commit_at": "2024-09-30T02:55:39Z",
+   "pushed_at": "2025-05-17T19:00:09Z",
+   "listing_url": "https://osinttools.io/tools/operative-framework/",
+   "alternatives_url": "https://osinttools.io/tools/operative-framework/alternatives/",
+   "state": "dormant"
+  },
+  {
+   "slug": "xurlfind3r",
+   "name": "xurlfind3r",
+   "category": "infrastructure",
+   "inputs": [
+    "domain"
+   ],
+   "repo": "hueristiq/xurlfind3r",
+   "stars": 735,
+   "language": "Go",
+   "license": "MIT",
+   "archived": false,
+   "last_commit_at": "2025-11-17T06:19:43Z",
+   "pushed_at": "2026-11-07T14:21:18Z",
+   "listing_url": "https://osinttools.io/tools/xurlfind3r/",
+   "alternatives_url": "https://osinttools.io/tools/xurlfind3r/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "geogramint",
+   "name": "Geogramint",
+   "category": "geolocation",
+   "inputs": [
+    "name"
+   ],
+   "repo": "Alb-310/Geogramint",
+   "stars": 732,
+   "language": "Python",
+   "license": "GPL-3.0",
+   "archived": true,
+   "last_commit_at": "2024-09-07T09:24:59Z",
+   "pushed_at": "2024-09-07T09:24:59Z",
+   "listing_url": "https://osinttools.io/tools/geogramint/",
+   "alternatives_url": "https://osinttools.io/tools/geogramint/alternatives/",
+   "state": "archived"
+  },
+  {
+   "slug": "cyberbro",
+   "name": "Cyberbro",
+   "category": "threat-intelligence",
+   "inputs": [
+    "ip",
+    "domain",
+    "url"
+   ],
+   "repo": "stanfrbd/cyberbro",
+   "stars": 705,
+   "language": "Python",
+   "license": "MIT",
+   "archived": false,
+   "last_commit_at": "2026-11-21T16:28:28Z",
+   "pushed_at": "2026-11-24T16:07:48Z",
+   "listing_url": "https://osinttools.io/tools/cyberbro/",
+   "alternatives_url": "https://osinttools.io/tools/cyberbro/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "urlcrazy",
+   "name": "URLCrazy",
+   "category": "infrastructure",
+   "inputs": [
+    "domain"
+   ],
+   "repo": "urbanadventurer/urlcrazy",
+   "stars": 702,
+   "language": "Ruby",
+   "license": null,
+   "archived": false,
+   "last_commit_at": "2025-07-28T07:22:43Z",
+   "pushed_at": "2025-07-28T07:24:43Z",
+   "listing_url": "https://osinttools.io/tools/urlcrazy/",
+   "alternatives_url": "https://osinttools.io/tools/urlcrazy/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "gosint",
+   "name": "gOSINT",
+   "category": "data-capturing",
+   "inputs": [
+    "email",
+    "domain",
+    "ip",
+    "phone"
+   ],
+   "repo": "Nhoya/gOSINT",
+   "stars": 679,
+   "language": "Go",
+   "license": "GPL-3.0",
+   "archived": false,
+   "last_commit_at": "2019-06-17T11:34:49Z",
+   "pushed_at": "2021-02-23T00:20:27Z",
+   "listing_url": "https://osinttools.io/tools/gosint/",
+   "alternatives_url": "https://osinttools.io/tools/gosint/alternatives/",
+   "state": "dormant"
+  },
+  {
+   "slug": "sarenka",
+   "name": "SARENKA",
+   "category": "infrastructure",
+   "inputs": [
+    "ip",
+    "domain"
+   ],
+   "repo": "KTZgraph/sarenka",
+   "stars": 676,
+   "language": "Python",
+   "license": "MIT",
+   "archived": false,
+   "last_commit_at": "2022-08-16T22:24:01Z",
+   "pushed_at": "2023-05-04T15:42:26Z",
+   "listing_url": "https://osinttools.io/tools/sarenka/",
+   "alternatives_url": "https://osinttools.io/tools/sarenka/alternatives/",
+   "state": "dormant"
+  },
+  {
+   "slug": "profil3r",
+   "name": "Profil3r",
+   "category": "people",
+   "inputs": [
+    "name"
+   ],
+   "repo": "Greyjedix/Profil3r",
+   "stars": 675,
+   "language": null,
+   "license": "MIT",
+   "archived": false,
+   "last_commit_at": "2021-04-14T14:44:13Z",
+   "pushed_at": "2024-04-11T13:23:24Z",
+   "listing_url": "https://osinttools.io/tools/profil3r/",
+   "alternatives_url": "https://osinttools.io/tools/profil3r/alternatives/",
+   "state": "dormant"
+  },
+  {
+   "slug": "odin",
+   "name": "ODIN",
+   "category": "infrastructure",
+   "inputs": [
+    "domain"
+   ],
+   "repo": "chrismaddalena/ODIN",
+   "stars": 670,
+   "language": "Python",
+   "license": "BSD-3-Clause",
+   "archived": false,
+   "last_commit_at": "2018-12-03T01:58:12Z",
+   "pushed_at": "2022-01-06T17:50:50Z",
+   "listing_url": "https://osinttools.io/tools/odin/",
+   "alternatives_url": "https://osinttools.io/tools/odin/alternatives/",
+   "state": "dormant"
+  },
+  {
+   "slug": "sonarsearch",
+   "name": "SonarSearch",
+   "category": "infrastructure",
+   "inputs": [
+    "domain",
+    "ip"
+   ],
+   "repo": "Cgboal/SonarSearch",
+   "stars": 648,
+   "language": "Go",
+   "license": "MIT",
+   "archived": false,
+   "last_commit_at": "2023-04-21T22:37:06Z",
+   "pushed_at": "2023-05-05T02:32:23Z",
+   "listing_url": "https://osinttools.io/tools/sonarsearch/",
+   "alternatives_url": "https://osinttools.io/tools/sonarsearch/alternatives/",
+   "state": "dormant"
+  },
+  {
+   "slug": "phomber",
+   "name": "PH0MBER",
+   "category": "people",
+   "inputs": [
+    "name",
+    "username"
+   ],
+   "repo": "s41r4j/phomber",
+   "stars": 630,
+   "language": "TypeScript",
+   "license": "MIT",
+   "archived": false,
+   "last_commit_at": "2026-11-20T10:40:32Z",
+   "pushed_at": "2026-11-20T10:41:42Z",
+   "listing_url": "https://osinttools.io/tools/phomber/",
+   "alternatives_url": "https://osinttools.io/tools/phomber/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "orbit",
+   "name": "Orbit",
+   "category": "data-capturing",
+   "inputs": [
+    "crypto"
+   ],
+   "repo": "s0md3v/Orbit",
+   "stars": 626,
+   "language": "Python",
+   "license": "GPL-3.0",
+   "archived": false,
+   "last_commit_at": "2019-07-26T16:30:47Z",
+   "pushed_at": "2022-07-15T09:47:59Z",
+   "listing_url": "https://osinttools.io/tools/orbit/",
+   "alternatives_url": "https://osinttools.io/tools/orbit/alternatives/",
+   "state": "dormant"
+  },
+  {
+   "slug": "linkedindumper",
+   "name": "LinkedInDumper",
+   "category": "social-media",
+   "inputs": [
+    "url"
+   ],
+   "repo": "l4rm4nd/LinkedInDumper",
+   "stars": 624,
+   "language": "Python",
+   "license": null,
+   "archived": false,
+   "last_commit_at": "2026-08-21T09:58:39Z",
+   "pushed_at": "2026-08-21T09:58:39Z",
+   "listing_url": "https://osinttools.io/tools/linkedindumper/",
+   "alternatives_url": "https://osinttools.io/tools/linkedindumper/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "waybackpy",
+   "name": "waybackpy",
+   "category": "data-capturing",
+   "inputs": [
+    "url"
+   ],
+   "repo": "akamhy/waybackpy",
+   "stars": 618,
+   "language": "Python",
+   "license": "MIT",
+   "archived": false,
+   "last_commit_at": "2022-11-17T02:28:46Z",
+   "pushed_at": "2024-02-26T00:15:49Z",
+   "listing_url": "https://osinttools.io/tools/waybackpy/",
+   "alternatives_url": "https://osinttools.io/tools/waybackpy/alternatives/",
+   "state": "dormant"
+  },
+  {
+   "slug": "metagoofil",
+   "name": "Metagoofil",
+   "category": "documents",
+   "inputs": [
+    "domain"
+   ],
+   "repo": "opsdisk/metagoofil",
+   "stars": 610,
+   "language": "Python",
+   "license": null,
+   "archived": false,
+   "last_commit_at": "2026-10-31T19:11:01Z",
+   "pushed_at": "2026-10-31T19:14:17Z",
+   "listing_url": "https://osinttools.io/tools/metagoofil/",
+   "alternatives_url": "https://osinttools.io/tools/metagoofil/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "maltego-telegram",
+   "name": "Maltego Telegram",
+   "category": "social-media",
+   "inputs": [
+    "username",
+    "url"
+   ],
+   "repo": "vognik/maltego-telegram",
+   "stars": 604,
+   "language": "Python",
+   "license": "GPL-3.0",
+   "archived": false,
+   "last_commit_at": "2026-10-19T17:19:31Z",
+   "pushed_at": "2026-10-19T17:19:31Z",
+   "listing_url": "https://osinttools.io/tools/maltego-telegram/",
+   "alternatives_url": "https://osinttools.io/tools/maltego-telegram/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "poastal",
+   "name": "Poastal",
+   "category": "people",
+   "inputs": [
+    "email"
+   ],
+   "repo": "jakecreps/poastal",
+   "stars": 602,
+   "language": "Python",
+   "license": "MIT",
+   "archived": false,
+   "last_commit_at": "2023-04-28T18:01:12Z",
+   "pushed_at": "2024-04-08T18:02:03Z",
+   "listing_url": "https://osinttools.io/tools/poastal/",
+   "alternatives_url": "https://osinttools.io/tools/poastal/alternatives/",
+   "state": "dormant"
+  },
+  {
+   "slug": "osgint",
+   "name": "OSGINT",
+   "category": "people",
+   "inputs": [
+    "username",
+    "email"
+   ],
+   "repo": "hippiiee/osgint",
+   "stars": 584,
+   "language": "Python",
+   "license": "MIT",
+   "archived": false,
+   "last_commit_at": "2026-09-13T22:10:15Z",
+   "pushed_at": "2026-09-13T22:10:24Z",
+   "listing_url": "https://osinttools.io/tools/osgint/",
+   "alternatives_url": "https://osinttools.io/tools/osgint/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "iocextract",
+   "name": "iocextract",
+   "category": "threat-intelligence",
+   "inputs": [
+    "file"
+   ],
+   "repo": "pedramamini/iocextract",
+   "stars": 581,
+   "language": "Python",
+   "license": "GPL-2.0",
+   "archived": false,
+   "last_commit_at": "2024-08-28T16:04:18Z",
+   "pushed_at": "2024-08-28T16:04:18Z",
+   "listing_url": "https://osinttools.io/tools/iocextract/",
+   "alternatives_url": "https://osinttools.io/tools/iocextract/alternatives/",
+   "state": "dormant"
+  },
+  {
+   "slug": "torcrawl",
+   "name": "TorCrawl.py",
+   "category": "dark-web",
+   "inputs": [
+    "url"
+   ],
+   "repo": "MikeMeliz/TorCrawl.py",
+   "stars": 552,
+   "language": "Python",
+   "license": "GPL-3.0",
+   "archived": false,
+   "last_commit_at": "2026-06-29T21:35:44Z",
+   "pushed_at": "2026-06-29T21:35:48Z",
+   "listing_url": "https://osinttools.io/tools/torcrawl/",
+   "alternatives_url": "https://osinttools.io/tools/torcrawl/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "scrummage",
+   "name": "Scrummage",
+   "category": "threat-intelligence",
+   "inputs": [
+    "domain",
+    "email",
+    "username",
+    "ip",
+    "crypto"
+   ],
+   "repo": "matamorphosis/Scrummage",
+   "stars": 546,
+   "language": "Python",
+   "license": "GPL-3.0",
+   "archived": false,
+   "last_commit_at": "2025-01-02T03:15:10Z",
+   "pushed_at": "2025-01-02T03:15:11Z",
+   "listing_url": "https://osinttools.io/tools/scrummage/",
+   "alternatives_url": "https://osinttools.io/tools/scrummage/alternatives/",
+   "state": "dormant"
+  },
+  {
+   "slug": "openrailwaymap",
+   "name": "OpenRailwayMap",
+   "category": "transport",
+   "inputs": [
+    "name"
+   ],
+   "repo": "OpenRailwayMap/OpenRailwayMap",
+   "stars": 523,
+   "language": "CSS",
+   "license": "GPL-3.0",
+   "archived": false,
+   "last_commit_at": "2026-04-20T17:05:36Z",
+   "pushed_at": "2026-04-20T17:05:36Z",
+   "listing_url": "https://osinttools.io/tools/openrailwaymap/",
+   "alternatives_url": "https://osinttools.io/tools/openrailwaymap/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "mw-metadata",
+   "name": "MW Metadata",
+   "category": "social-media",
+   "inputs": [
+    "url"
+   ],
+   "repo": "mattwright324/youtube-metadata",
+   "stars": 518,
+   "language": "JavaScript",
+   "license": "MIT",
+   "archived": false,
+   "last_commit_at": "2026-08-30T18:42:21Z",
+   "pushed_at": "2026-08-30T18:42:21Z",
+   "listing_url": "https://osinttools.io/tools/mw-metadata/",
+   "alternatives_url": "https://osinttools.io/tools/mw-metadata/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "protosint",
+   "name": "ProtOSINT",
+   "category": "people",
+   "inputs": [
+    "email",
+    "username",
+    "domain"
+   ],
+   "repo": "pixelbubble/ProtOSINT",
+   "stars": 448,
+   "language": "Python",
+   "license": "MIT",
+   "archived": false,
+   "last_commit_at": "2026-07-19T19:40:12Z",
+   "pushed_at": "2026-07-19T19:40:12Z",
+   "listing_url": "https://osinttools.io/tools/protosint/",
+   "alternatives_url": "https://osinttools.io/tools/protosint/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "emailrep",
+   "name": "EmailRep",
+   "category": "people",
+   "inputs": [
+    "email"
+   ],
+   "repo": "sublime-security/emailrep.io",
+   "stars": 383,
+   "language": null,
+   "license": null,
+   "archived": false,
+   "last_commit_at": "2021-05-07T15:12:25Z",
+   "pushed_at": "2024-03-16T04:28:59Z",
+   "listing_url": "https://osinttools.io/tools/emailrep/",
+   "alternatives_url": "https://osinttools.io/tools/emailrep/alternatives/",
+   "state": "dormant"
+  },
+  {
+   "slug": "bellingcat-osm-search",
+   "name": "Bellingcat OpenStreetMap Search",
+   "category": "geolocation",
+   "inputs": [
+    "name"
+   ],
+   "repo": "bellingcat/osm-search",
+   "stars": 219,
+   "language": "Vue",
+   "license": "MIT",
+   "archived": false,
+   "last_commit_at": "2026-07-07T16:07:07Z",
+   "pushed_at": "2026-07-07T16:07:07Z",
+   "listing_url": "https://osinttools.io/tools/bellingcat-osm-search/",
+   "alternatives_url": "https://osinttools.io/tools/bellingcat-osm-search/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "copernicus-browser",
+   "name": "Copernicus Browser",
+   "category": "geolocation",
+   "inputs": [
+    "name"
+   ],
+   "repo": "eu-cdse/copernicus-browser",
+   "stars": 95,
+   "language": "JavaScript",
+   "license": "MIT",
+   "archived": false,
+   "last_commit_at": "2026-11-19T13:20:17Z",
+   "pushed_at": "2026-11-19T13:20:25Z",
+   "listing_url": "https://osinttools.io/tools/copernicus-browser/",
+   "alternatives_url": "https://osinttools.io/tools/copernicus-browser/alternatives/",
+   "state": "active"
+  },
+  {
+   "slug": "invid-weverify",
+   "name": "InVID-WeVerify Verification Plugin",
+   "category": "documents",
+   "inputs": [
+    "url",
+    "image"
+   ],
+   "repo": "AFP-Medialab/verification-plugin",
+   "stars": 54,
+   "language": "JavaScript",
+   "license": "MIT",
+   "archived": false,
+   "last_commit_at": "2026-11-17T16:19:06Z",
+   "pushed_at": "2026-11-24T10:37:26Z",
+   "listing_url": "https://osinttools.io/tools/invid-weverify/",
+   "alternatives_url": "https://osinttools.io/tools/invid-weverify/alternatives/",
+   "state": "active"
+  }
+ ]
+}
