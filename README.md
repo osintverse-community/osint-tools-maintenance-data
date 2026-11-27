@@ -8,31 +8,31 @@ The same numbers, with maintained alternatives for each quiet project, are on
 
 ## Summary
 
-Read from the GitHub API on 25 November 2026 (`data/summary.json`).
+Read from the GitHub API on 27 November 2026 (`data/summary.json`).
 
 | | Projects |
 | --- | --- |
-| Tracked: listed on OSINTtools.io, with a public GitHub repository | 173 |
-| Active: a commit on the default branch in the last 18 months | 104 |
-| ...of which in the last 90 days | 66 |
-| Dormant: not archived, no commit on the default branch in 18 months | 56 |
+| Tracked: listed on OSINTtools.io, with a public GitHub repository | 523 |
+| Active: a commit on the default branch in the last 18 months | 410 |
+| ...of which in the last 90 days | 295 |
+| Dormant: not archived, no commit on the default branch in 18 months | 100 |
 | Archived on GitHub | 13 |
-| Archived or dormant with 1,000 stars or more | 48 |
+| Archived or dormant with 1,000 stars or more | 59 |
 
 The ten most-starred archived or dormant projects:
 
 | Project | Repository | Stars | Last commit | State |
 | --- | --- | --- | --- | --- |
-| [SpiderFoot](https://osinttools.io/tools/spiderfoot/) | smicallef/spiderfoot | 24,956 | 2023-11-05 | dormant |
-| [GhostTrack](https://osinttools.io/tools/ghosttrack/) | HunxByts/GhostTrack | 20,880 | 2024-01-11 | dormant |
+| [SpiderFoot](https://osinttools.io/tools/spiderfoot/) | smicallef/spiderfoot | 25,011 | 2023-11-05 | dormant |
+| [GhostTrack](https://osinttools.io/tools/ghosttrack/) | HunxByts/GhostTrack | 20,918 | 2024-01-11 | dormant |
 | [Twint](https://osinttools.io/tools/twint/) | twintproject/twint | 16,413 | 2021-03-02 | archived |
-| [Holehe](https://osinttools.io/tools/holehe/) | megadose/holehe | 15,755 | 2024-09-10 | dormant |
-| [Gitrob](https://osinttools.io/tools/gitrob/) | michenriksen/gitrob | 6,197 | 2018-07-05 | archived |
-| [Mosint](https://osinttools.io/tools/mosint/) | alpkeskin/mosint | 6,090 | 2023-09-19 | dormant |
-| [Aquatone](https://osinttools.io/tools/aquatone/) | michenriksen/aquatone | 5,959 | 2019-05-19 | archived |
-| [dnstwist](https://osinttools.io/tools/dnstwist/) | elceef/dnstwist | 5,789 | 2025-04-15 | dormant |
-| [h8mail](https://osinttools.io/tools/h8mail/) | khast3x/h8mail | 5,390 | 2022-06-25 | dormant |
-| [Toutatis](https://osinttools.io/tools/toutatis/) | megadose/toutatis | 4,477 | 2024-12-05 | dormant |
+| [Holehe](https://osinttools.io/tools/holehe/) | megadose/holehe | 15,775 | 2024-09-10 | dormant |
+| [Sublist3r](https://osinttools.io/tools/sublist3r/) | aboul3la/Sublist3r | 11,102 | 2020-07-29 | dormant |
+| [Tabula](https://osinttools.io/tools/tabula/) | tabulapdf/tabula | 7,500 | 2025-03-14 | dormant |
+| [Nullschool Earth](https://osinttools.io/tools/nullschool-earth/) | cambecc/earth | 6,635 | 2016-09-03 | dormant |
+| [Gitrob](https://osinttools.io/tools/gitrob/) | michenriksen/gitrob | 6,194 | 2018-07-05 | archived |
+| [Mosint](https://osinttools.io/tools/mosint/) | alpkeskin/mosint | 6,099 | 2023-09-19 | dormant |
+| [Aquatone](https://osinttools.io/tools/aquatone/) | michenriksen/aquatone | 5,960 | 2019-05-19 | archived |
 
 ## Method
 
